@@ -402,7 +402,7 @@
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionEPT.json",
       "Type": "Movies",
-      "isUnlocked": true
+      "isUnlocked": false
     }
   ],
   "Series": [
@@ -411,7 +411,7 @@
       "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKSMY.json",
       "Type": "Series",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Σειρές",
