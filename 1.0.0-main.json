@@ -173,13 +173,10 @@
       "delayRewardedSeriesInfoActivity": 30000,
       "delayBannerVideoStreamingActivity": 90000,
       "delayInterstitialVideoStreamingActivity": 60000,
-
       "enabledIntervalImpression": true,
       "enabledIntervalClick": true,
-
       "intervalImpressionInMs": 3600000,
       "intervalClickInMs": 3600000,
-      
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
@@ -228,6 +225,157 @@
       "SiteUrl": "https://movieflixgr.vercel.app/",
       "siteInfoButtonVisible": true,
       "emailInfoButtonVisible": true
+    }
+  ],
+  "Standard": [
+    {
+      "TV": [
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionTV.json"
+        }
+      ],
+      "Movies": [
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionKTMY.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionET.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionEPT.json",
+          "Category": 2
+        }
+      ],
+      "Series": [
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionKSMY.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionES.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionETS.json",
+          "Category": 2
+        }
+      ],
+      "Kids": [
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionMPT.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionMPS.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionPYK.json",
+          "Category": 2
+        }
+      ]
+    }
+  ],
+  "Access": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKTMY.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionET.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionEPT.json",
+              "Category": 2
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKSMY.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionES.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionETS.json",
+              "Category": 2
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionMPT.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionMPS.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionPYK.json",
+              "Category": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "AccessTV": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKTMY.json",
+              "Category": 0
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKSMY.json",
+              "Category": 0
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionMPT.json",
+              "Category": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
     }
   ],
   "Movies": [
