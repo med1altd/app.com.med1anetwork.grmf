@@ -29,8 +29,11 @@
                 "AD_REQUESTS": {
                     "integerValue": "473"
                 },
-                "CLICKS": {
-                    "integerValue": "0"
+                "MATCHED_REQUESTS": {
+                    "integerValue": "19"
+                },
+                "MATCH_RATE": {
+                    "doubleValue": 0.040169133192389
                 }
             }
         }
