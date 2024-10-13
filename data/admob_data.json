@@ -29,11 +29,23 @@
                 "AD_REQUESTS": {
                     "integerValue": "473"
                 },
+                "CLICKS": {
+                    "integerValue": "0"
+                },
+                "IMPRESSIONS": {
+                    "integerValue": "10"
+                },
+                "IMPRESSION_CTR": {
+                    "doubleValue": 0
+                },
                 "MATCHED_REQUESTS": {
                     "integerValue": "19"
                 },
                 "MATCH_RATE": {
                     "doubleValue": 0.040169133192389
+                },
+                "SHOW_RATE": {
+                    "doubleValue": 0.5263157894736842
                 }
             }
         }
