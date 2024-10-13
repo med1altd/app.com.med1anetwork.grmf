@@ -83,7 +83,7 @@
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 1500,
       "matchedRequestsMinimum": 0,
-      "matchedRequestsMaximum": 100000,
+      "matchedRequestsMaximum": 1500,
       "notMatchedRequestsMinimum": 0,
       "notMatchedRequestsMaximum": 1500,
       "clicksMinimum": 0,
