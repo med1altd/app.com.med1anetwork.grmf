@@ -12,7 +12,7 @@
       "showInterstitialAdsLive": false,
       "showInterstitialAdsVideo": false,
       "showRewardedInterstitialAds": false,
-      "showAppOpenAds": false,
+      "showAppOpenAds": true,
       "Casting_App_Id": "283C71D7",
       "enabledCastOption": true,
       "enabledServerAdRequestsCheck": false,
