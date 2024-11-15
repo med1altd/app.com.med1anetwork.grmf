@@ -91,9 +91,9 @@
       "imagesReloadTimes": 3,
       "isIntroductionRequired": false,
 
-      "shouldCheckOrganicUserBeforeAdMobConsent": true,
+      "shouldCheckOrganicUserBeforeAdMobConsent": false,
       
-      "enabledPrompting": true,
+      "enabledPrompting": false,
       
       "enabledPromptForOnlyGooglePlayStoreUser": false,
       "gifUrlPromptForOnlyGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
