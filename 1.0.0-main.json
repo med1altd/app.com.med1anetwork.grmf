@@ -6,7 +6,8 @@
       "isTest": false,
       "showAds": false,
       "isShowingAdsWebView": false,
-      "showBannerAds": false,
+      "showBannerAds": true,
+      "showCollapsibleBannerAds": true,
       "showInterstitialAds": true,
       "showInterstitialAdsLive": true,
       "showInterstitialAdsVideo": true,
@@ -49,7 +50,7 @@
       "CodeExample": "greek_version_2020",
       "MoreContentOption": false,
       "AddContentOption": false,
-      "CalculateAndSendTimeSpentInActivity": false,
+      "CalculateAndSendTimeSpentInActivity": true,
       "CalculateCurentViewers": false,
       "AddContentFormUrl": "https://movieflixforusers.vercel.app/addcontentform.html",
       "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
@@ -88,7 +89,27 @@
       "isAppReviewActive": true,
       "AppOpensRequiredBeforeAppReview": 10,
       "imagesReloadTimes": 3,
-      "isIntroductionRequired": false
+      "isIntroductionRequired": false,
+
+      "shouldCheckOrganicUserBeforeAdMobConsent": true,
+      
+      "enabledPrompting": true,
+      
+      "enabledPromptForOnlyGooglePlayStoreUser": false,
+      "gifUrlPromptForOnlyGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
+      "gifUrlPromptForOnlyGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
+      "enabledDismissForPromptOnlyGooglePlayStoreUser": true,
+
+      "enabledPromptForGooglePlayStoreAndAudienceUser": true,
+      "remoteConfigKeyPromptForGooglePlayStoreAndAudienceUser": "show_prompt",
+      "gifUrlPromptForGooglePlayStoreAndAudienceUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
+      "gifUrlPromptForGooglePlayStoreAndAudienceUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
+      "enabledDismissForPromptGooglePlayStoreAndAudienceUser": false,
+
+      "enabledPromptForNotGooglePlayStoreUser": false,
+      "gifUrlPromptForNotGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
+      "gifUrlPromptForNotGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
+      "enabledDismissForPromptNotGooglePlayStoreUser": true  
     }
   ],
   "Introduction": [
@@ -139,7 +160,7 @@
       "Interstitial_Id_AdMobReal": "ca-app-pub-3940256099942544/1033173712",
       "Rewarded_Id_AdMob": "",
       "Rewarded_Id_AdMobReal": "",
-      "AppOpen_Id_AdMob": "TO_DO",
+      "AppOpen_Id_AdMob": "",
       "RewardedInterstitial_Id_AdMob": "",
       "APP_ID_Unity": "5598984",
       "Banner_Id_Unity": "Banner_Android",
@@ -166,17 +187,20 @@
       "delayAppOpenMainActivity": 3000000,
       "delayInterstitialRewardedMainActivity": 120000,
       "delayBannerLiveStreamingActivity": 120000,
-      "delayInterstitialLiveStreamingActivity": 120,
+      "delayInterstitialLiveStreamingActivity": 120000,
       "delayInterstitialRewardedMoviesInfoActivity": 120000,
-      "delayRewardedMoviesInfoActivity": 30000,
-      "delayInterstitialRewardedSeriesInfoActivity": 1200000,
-      "delayRewardedSeriesInfoActivity": 30000,
+      "delayRewardedMoviesInfoActivity": 120000,
+      "delayInterstitialRewardedSeriesInfoActivity": 120000,
+      "delayRewardedSeriesInfoActivity": 120000,
       "delayBannerVideoStreamingActivity": 120000,
       "delayInterstitialVideoStreamingActivity": 120000,
+
       "enabledIntervalImpression": true,
       "enabledIntervalClick": true,
-      "intervalImpressionInMs": 1200000,
-      "intervalClickInMs": 1200000,
+
+      "intervalImpressionInMs": 36000000,
+      "intervalClickInMs": 36000000,
+      
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
@@ -212,7 +236,7 @@
       "InstagramUserName": "movieflixgr",
       "isInstagramVisisible": false,
       "isRatingVisible": false,
-      "RatingUrl": "https://play.google.com/store/apps/details?id=com.gr.mf",
+      "RatingUrl": "https://play.google.com/store/apps/details?id=com.gr.mf&referrer=utm_source=opera&utm_medium=organic&utm_campaign=rate_application",
       "isInfoVisible": true,
       "InfoTextOld": "MovieFlix Privacy Policy will be updated soon...",
       "InfoText": "Αποποίηση Ευθυνών για την Εφαρμογή:\nΗ παρούσα αποποίηση ευθυνών αναφέρεται στη χρήση και τη λειτουργία της εφαρμογής MovieFlix, εντός των πλαισίων της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, σύμφωνα με το άρθρο 15 της εν λόγω Οδηγίας.\nΣύμφωνα με την Ευρωπαϊκή Οδηγία 2000/31/ΕΚ, άρθρο 15, η εταιρεία φιλοξενίας δεν φέρει γενική υποχρέωση να παρακολουθεί τα περιεχόμενα που μεταφέρονται ή αποθηκεύονται μέσω της εφαρμογής. Συνεπώς, επισημαίνουμε ότι η ευθύνη για το περιεχόμενο που δημιουργούν ή μεταφέρουν οι χρήστες ανήκει αποκλειστικά σε αυτούς τους χρήστες.\n\nΟι χρήστες της εφαρμογής MovieFlix είναι υπεύθυνοι για την τήρηση όλων των ισχυόντων νόμων και κανονισμών σχετικά με το περιεχόμενο που προσθέτουν ή μοιράζονται. Η εταιρεία διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να παρακολουθεί, να φιλτράρει, να επεξεργάζεται ή να αφαιρεί περιεχόμενο που θεωρεί ότι παραβιάζει τους όρους χρήσης ή τις νομικές απαιτήσεις.\n\nΠροτού οι χρήστες προβούν σε οποιαδήποτε νομική διαδικασία, υποχρεούνται να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής MovieFlix. Σε περίπτωση παράκαμψης του παραπάνω όρου της εφαρμογής, η εταιρεία προγραμματιστών μας θα επιφυλαχθεί του δικαιώματος να κινηθεί νομικά εναντίον οποιουδήποτε παραβιάζει τους όρους χρήσης.\n\nΕπιπλέον, υπάρχει περιεχόμενο εντός της εφαρμογής που μπορεί να ξεκλειδωθεί από τους χρήστες με την εισαγωγή ενός μοναδικού κωδικού. Όσοι χρήστες επιθυμούν να δημιουργήσουν λίστα με ενσωματωμένο περιεχόμενο (Τηλεοπτικά Κανάλια, Ταινίες & Σειρές) και να το μοιραστούν μαζί με άλλους χρήστες, έχουν την επιλογή να αποκτήσουν από την ομάδα προγραμματιστών μας έναν ξεχωριστό κωδικό περιεχομένου. Η εταιρεία δεν φέρει καμία ευθύνη για το υλικό αυτό, και σε περίπτωση επιθυμίας διαγραφής ολόκληρου ή τμήματος του συγκεκριμένου περιεχομένου συνίσταται η υποβολή της ειδικής φόρμας DMCA που βρίσκεται στο κάτω μέρος της συγκεκριμένης σελίδας.",
@@ -385,21 +409,21 @@
       "ImageOld": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKTMY.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionET.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionEPT.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Series": [
@@ -408,21 +432,21 @@
       "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKSMY.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Σειρές",
       "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionES.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionETS.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Kids": [
@@ -431,21 +455,21 @@
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPT.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
       "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPS.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",
       "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionPYK.json",
       "Type": "YouTube",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Fetch": [
