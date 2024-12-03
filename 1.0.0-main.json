@@ -154,8 +154,8 @@
   "Ads": [
     {
       "APP_ID_AdMob": "ca-app-pub-1981269273781608~4785794601",
-      "Banner_Id_AdMob": "ca-app-pub-3940256099942544/2014213617",
-      "Banner_Id_AdMobReal": "ca-app-pub-3940256099942544/2014213617",
+      "Banner_Id_AdMob": "ca-app-pub-1981269273781608/7690440338",
+      "Banner_Id_AdMobReal": "ca-app-pub-1981269273781608/7690440338",
       "Interstitial_Id_AdMob": "ca-app-pub-3940256099942544/1033173712",
       "Interstitial_Id_AdMobReal": "ca-app-pub-3940256099942544/1033173712",
       "Rewarded_Id_AdMob": "",
