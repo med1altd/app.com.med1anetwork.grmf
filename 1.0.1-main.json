@@ -72,7 +72,7 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": true,
+      "MessageAlert": false,
       "MessageText": "UOM 2024",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",
