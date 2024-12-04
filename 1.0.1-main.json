@@ -234,7 +234,7 @@
   "Rating": [
     {
       "InstagramUserName": "movieflixgr",
-      "isInstagramVisisible": false,
+      "isInstagramVisisible": true,
       "isRatingVisible": false,
       "RatingUrl": "https://play.google.com/store/apps/details?id=com.gr.mf&referrer=utm_source=opera&utm_medium=organic&utm_campaign=rate_application",
       "isInfoVisible": true,
