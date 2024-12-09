@@ -154,10 +154,10 @@
   "Ads": [
     {
       "APP_ID_AdMob": "ca-app-pub-1981269273781608~4785794601",
-      "Banner_Id_AdMob": "ca-app-pub-1981269273781608/7690440338",
-      "Banner_Id_AdMobReal": "ca-app-pub-1981269273781608/7690440338",
-      "Interstitial_Id_AdMob": "ca-app-pub-1981269273781608/2319413366",
-      "Interstitial_Id_AdMobReal": "ca-app-pub-1981269273781608/2319413366",
+      "Banner_Id_AdMob": "",
+      "Banner_Id_AdMobReal": "",
+      "Interstitial_Id_AdMob": "",
+      "Interstitial_Id_AdMobReal": "",
       "Rewarded_Id_AdMob": "",
       "Rewarded_Id_AdMobReal": "",
       "AppOpen_Id_AdMob": "ca-app-pub-3940256099942544/9257395921",
