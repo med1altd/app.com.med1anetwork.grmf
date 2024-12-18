@@ -78105,32 +78105,6 @@
     },
     {
       "Fetch": "GamatoTV",
-      "TMDB_ID": 786892,
-      "Title": "Furiosa: A Mad Max Saga",
-      "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
-      "Video": "45772",
-      "DirectVideo": "http://gmtcloud.site/video/movies/Furiosa.A.Mad.Max.Saga.mp4?id=0",
-      "isUnlocked": true,
-      "Voe_ID_Backup": "iey9ejtlpis5",
-      "Runtime": 149,
-      "Genres": [
-        {
-          "Title": "Action"
-        },
-        {
-          "Title": "Adventure"
-        },
-        {
-          "Title": "Science Fiction"
-        }
-      ],
-      "Year": "2024",
-      "Voe_ID_Expired": "krboyd9h9har",
-      "Voe_ID": "dsraurfuyoqi",
-      "queueID": 3068051
-    },
-    {
-      "Fetch": "GamatoTV",
       "TMDB_ID": 351901,
       "Title": "12 Rounds 3: Lockdown",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wAIu7q72mINXVplVnU6pMbZmQQ.jpg",
