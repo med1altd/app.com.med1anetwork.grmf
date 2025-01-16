@@ -11,8 +11,8 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8",
-      "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24613/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.mpd",
+      "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8",
       "VideoOld": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "SKey": "ERT 1",
@@ -49,7 +49,8 @@
     {
       "Title": "ERT2",
       "Image": "https://i.postimg.cc/ryjJjR7D/ert2.png",
-      "Video": "mpd",
+      "VideoOld": "mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/index.mpd",
       "VideoNEW": "https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/87/%CE%95%CE%A1%CE%A42",
       "SKey": "ERT 2",
@@ -69,7 +70,7 @@
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
-      "enabledDrm": true,
+      "enabledDrm": false,
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
@@ -86,8 +87,8 @@
     {
       "Title": "ERT3",
       "Image": "https://iili.io/HviqRff.png",
-      "Video": "mpd",
-      "VideoNEW": "https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/index.mpd",
+      "VideoOld": "mpd",
       "VideoOld": "mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "SKey": "ERT 3",
@@ -107,7 +108,7 @@
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
-      "enabledDrm": true,
+      "enabledDrm": false,
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
@@ -124,7 +125,7 @@
     {
       "Title": "ERT WORLD",
       "Image": "https://iili.io/Hviq7Ul.png",
-      "Video": "https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd",
       "LiveUrl": "https://www.megatv.com/live/",
       "SKey": null,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -151,7 +152,7 @@
     {
       "Title": "ERT NEWS",
       "Image": "https://iili.io/HviqaJ2.png",
-      "Video": "https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "SKey": "ERT News",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -182,7 +183,7 @@
     {
       "Title": "ERT Kids",
       "Image": "https://i.ibb.co/dcRvjrQ/ERTKIDS.png",
-      "Video": "https://ertflix.s.llnwi.net/ertlive/kids/default/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/kids/clrdef24613/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "SKey": null,
