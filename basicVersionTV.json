@@ -502,7 +502,7 @@
     {
       "Title": "VOULI",
       "Image": "https://i.postimg.cc/BQtxCYxz/vouli.png",
-      "Video": "https://ertflix.s.llnwi.net/ertlive/vouli/default/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/vouli/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": "Vouli",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
