@@ -30614,32 +30614,6 @@
     },
     {
       "Fetch": "GamatoTV",
-      "TMDB_ID": 572802,
-      "Title": "Aquaman and the Lost Kingdom",
-      "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
-      "Video": "15952",
-      "DirectVideo": "http://gmtcloud.site/video/movies/The%20Lost%20King2022.mp4?id=0",
-      "isUnlocked": true,
-      "Voe_ID_Backup": "a5t0syttq9b3",
-      "Runtime": 124,
-      "Genres": [
-        {
-          "Title": "Action"
-        },
-        {
-          "Title": "Adventure"
-        },
-        {
-          "Title": "Fantasy"
-        }
-      ],
-      "Year": "2023",
-      "Voe_ID_Expired": "di7s1elha1zr",
-      "Voe_ID_Disabled": "ualtmifqwu70",
-      "queueID": 3065965
-    },
-    {
-      "Fetch": "GamatoTV",
       "TMDB_ID": 594767,
       "Title": "Shazam! Fury of the Gods",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
