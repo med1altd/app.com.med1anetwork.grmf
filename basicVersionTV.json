@@ -89,7 +89,6 @@
       "Image": "https://iili.io/HviqRff.png",
       "Video": "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/index.mpd",
       "VideoOld": "mpd",
-      "VideoOld": "mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "SKey": "ERT 3",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -591,6 +590,47 @@
       "d": "Ξένη ταινία.",
       "s": 1722207600000,
       "e": 1722213600000
+    },
+    {
+      "Title": "Cosmote Sport 1",
+      "Image": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png",
+      "Video": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "SKey": "Action 24",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://cookiewebplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://cookiewebplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
     }
   ]
 }
