@@ -1332,7 +1332,7 @@
     {
       "Title": "Nova Sports Start Greece",
       "Image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png",
-      "Video": "https://xyzdddd.mizhls.ru/lb/premium637/index.m3u8",
+      "Video": "https://webhdrunns.mizhls.ru/lb/premium637/index.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": "Action 24",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -1343,7 +1343,7 @@
       "EndStringD": "</span>",
       "StartD": 10,
       "EndD": 0,
-      "isUnlocked": false,
+      "isUnlocked": true,
       "liveContent": false,
       "liveDescription": false,
       "enabledDrm": false,
@@ -1358,15 +1358,11 @@
       "headers": [
         {
           "name": "Referer",
-          "value": "https://cookiewebplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://cookiewebplay.xyz"
+          "value": "https://lewblivehdplay.ru/"
         },
         {
           "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
         }
       ]
     }
