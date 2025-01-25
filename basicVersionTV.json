@@ -617,7 +617,7 @@
         "JP": true
       },
       "enabledEPGByAPI": false,
-      "headerss": [
+      "headers": [
         {
           "name": "Referer",
           "value": "https://cookiewebplay.xyz/"
