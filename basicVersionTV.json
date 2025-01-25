@@ -594,7 +594,7 @@
     {
       "Title": "Cosmote Sport 1",
       "Image": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png",
-      "Video": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+      "Video": "https://xyzdddd.mizhls.ru/lb/premium622/index.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": "Action 24",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -617,7 +617,7 @@
         "JP": true
       },
       "enabledEPGByAPI": false,
-      "headers": [
+      "headerss": [
         {
           "name": "Referer",
           "value": "https://cookiewebplay.xyz/"
