@@ -90,26 +90,21 @@
       "AppOpensRequiredBeforeAppReview": 10,
       "imagesReloadTimes": 3,
       "isIntroductionRequired": false,
-
       "shouldCheckOrganicUserBeforeAdMobConsent": false,
-      
       "enabledPrompting": false,
-      
       "enabledPromptForOnlyGooglePlayStoreUser": false,
       "gifUrlPromptForOnlyGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
       "gifUrlPromptForOnlyGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
       "enabledDismissForPromptOnlyGooglePlayStoreUser": true,
-
       "enabledPromptForGooglePlayStoreAndAudienceUser": true,
       "remoteConfigKeyPromptForGooglePlayStoreAndAudienceUser": "show_prompt",
       "gifUrlPromptForGooglePlayStoreAndAudienceUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
       "gifUrlPromptForGooglePlayStoreAndAudienceUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
       "enabledDismissForPromptGooglePlayStoreAndAudienceUser": false,
-
       "enabledPromptForNotGooglePlayStoreUser": false,
       "gifUrlPromptForNotGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
       "gifUrlPromptForNotGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
-      "enabledDismissForPromptNotGooglePlayStoreUser": true  
+      "enabledDismissForPromptNotGooglePlayStoreUser": true
     }
   ],
   "Introduction": [
@@ -194,13 +189,10 @@
       "delayRewardedSeriesInfoActivity": 120000,
       "delayBannerVideoStreamingActivity": 120000,
       "delayInterstitialVideoStreamingActivity": 120000,
-
       "enabledIntervalImpression": true,
       "enabledIntervalClick": true,
-
       "intervalImpressionInMs": 36000000,
       "intervalClickInMs": 36000000,
-      
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
@@ -524,6 +516,17 @@
       "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html",
       "liveEPGJSONUrl": "https://api.github.com/gists/4cd6b3c4ede5f5433b7f4c54a86459e5",
       "liveEPGJSONFileName": "overview.json",
+      "liveEPGJSONFileNames": [
+        {
+          "name": "overview.json"
+        },
+        {
+          "name": "cosmote.json"
+        },
+        {
+          "name": "nova.json"
+        }
+      ],
       "voeTestID": "kqrw17iyoemx",
       "client_id": "761312726828-pro410gsabvlikrjeq6ueqek6cub9ccr.apps.googleusercontent.com",
       "client_secret": "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",
