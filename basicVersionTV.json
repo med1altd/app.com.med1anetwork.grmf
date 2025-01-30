@@ -428,7 +428,7 @@
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
-      "enabledDrm": true,
+      "enabledDrm": false,
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
