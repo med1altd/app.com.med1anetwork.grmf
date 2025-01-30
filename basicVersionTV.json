@@ -420,7 +420,7 @@
       "StartD": 10,
       "EndD": 0,
       "DrmVideoType": "mpd",
-      "DrmSystem": "Widevine",
+      "DrmSystem": "widevine",
       "DrmAPIKey": "https://www.skai.gr/tv/live",
       "LicenseServerKey": "LicenseServerUrl",
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
