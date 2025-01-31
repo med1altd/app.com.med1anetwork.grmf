@@ -612,7 +612,8 @@
         "US": true,
         "DE": true,
         "JP": true
-      }
+      },
+      "enabledEPGByAPI": false
     },
     {
       "Title": "Cosmote Sport 1",
