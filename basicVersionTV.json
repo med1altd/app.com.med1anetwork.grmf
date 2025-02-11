@@ -1374,7 +1374,7 @@
     {
       "Title": "Nova Sports Start Greece",
       "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://webhdrunns.mizhls.ru/lb/premium637/mono.m3u8",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "EPGFileName": "nova.json",
       "SKey": "NovaSports Start",
@@ -1401,11 +1401,15 @@
       "headers": [
         {
           "name": "Referer",
-          "value": "https://lewblivehdplay.ru/"
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
         },
         {
           "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
         }
       ]
     }
