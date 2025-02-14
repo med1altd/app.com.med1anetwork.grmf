@@ -182,7 +182,7 @@
     {
       "Title": "ERT Kids",
       "Image": "https://i.ibb.co/dcRvjrQ/ERTKIDS.png",
-      "Video": "https://ertflix.akamaized.net/ertlive/kids/clrdef24613/index.mpd",
+      "Video": "https://ertflix.akamaized.net/ertlive/kids/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "SKey": null,
