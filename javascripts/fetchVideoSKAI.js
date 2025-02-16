@@ -22,7 +22,7 @@ function functionWithHTTPResult(result) {
     }
 
     // Extract the .m3u8 URL
-    const m3u8Url = extractUrl(responseString, ".m3u8");
+    const m3u8Url = extractUrl(responseString, "/manifest.mpd");
     // Extract the Widevine License URL
     const licenseServerUrl = extractUrl(responseString, "widevine");
 
