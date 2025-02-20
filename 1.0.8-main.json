@@ -4,7 +4,7 @@
       "isLive": true,
       "isWorking": true,
       "isTest": false,
-      "showAds": true,
+      "showAds": false,
       "isShowingAdsWebView": false,
       "showBannerAds": false,
       "showCollapsibleBannerAds": false,
