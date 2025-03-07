@@ -1413,48 +1413,6 @@
           "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
         }
       ]
-    },
-    {
-      "Title": "Cosmote Sport 122231332321321323113231123231",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://s6.hopslan.com/zdfX/index.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 1",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headersS": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36"
-        }
-      ]
     }
   ]
 }
