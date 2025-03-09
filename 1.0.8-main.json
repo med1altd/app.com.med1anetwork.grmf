@@ -191,7 +191,7 @@
       "delayInterstitialVideoStreamingActivity": 120000,
       "enabledIntervalImpression": true,
       "enabledIntervalClick": true,
-      "intervalImpressionInMs": 1800000,
+      "intervalImpressionInMs": 300000,
       "intervalClickInMs": 3600000,
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
