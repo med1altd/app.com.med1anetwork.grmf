@@ -72,7 +72,7 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": true,
+      "MessageAlert": false,
       "MessageText": "🔴LIVE: ⚽ Super League [Τελευταία Αγωνιστική] - ΑΠΟΛΑΥΣΤΕ ΔΩΡΕΑΝ ΟΛΟΥΣ ΤΟΥΣ ΑΓΩΝΕΣ ΖΩΝΤΑΝΑ",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",
