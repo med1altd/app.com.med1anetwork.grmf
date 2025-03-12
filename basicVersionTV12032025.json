@@ -232,9 +232,9 @@
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
-        "US": false,
-        "DE": false,
-        "JP": false
+        "US": true,
+        "DE": true,
+        "JP": true
       },
       "enabledEPGByAPI": false,
       "t": "[K12] NCIS - 16ος Κύκλος",
