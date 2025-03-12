@@ -244,6 +244,90 @@
       "embed": false,
       "embedFullscreen": "[aria-label=\"Fullscreen\""
     },
+        {
+      "Title": "Άρσεναλ - Αϊντχόφεν",
+      "Image": "https://www.kingbet.net/wp-content/uploads/2025/03/arsenal-eidhoven-768x576.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 3",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Άστον Βίλα – Κλαμπ Μπριζ",
+      "Image": "https://www.sport24.gr/wp-content/uploads/2025/03/AP25043648160098-1-full.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 5",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36"
+        }
+      ]
+    }
     {
       "Title": "MEGA",
       "Image": "https://i.postimg.cc/HLb0yrQs/mega.png",
@@ -597,90 +681,6 @@
       "d": "Ξένη ταινία.",
       "s": 1722207600000,
       "e": 1722213600000
-    },
-    {
-      "Title": "Άρσεναλ - Αϊντχόφεν",
-      "Image": "https://www.kingbet.net/wp-content/uploads/2025/03/arsenal-eidhoven-768x576.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 3",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Άστον Βίλα – Κλαμπ Μπριζ",
-      "Image": "https://www.sport24.gr/wp-content/uploads/2025/03/AP25043648160098-1-full.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 5",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36"
-        }
-      ]
     }
   ]
 }
