@@ -279,24 +279,6 @@
       "embedFullscreen": "[aria-label=\"Fullscreen\""
     },
     {
-      "Title": "ROSARIO [30.05.2025]: TOQUEL LIVE STUDIO CAMERA 24/7 (NO SOUND)",
-      "Image": "https://i.ibb.co/SDgmf75N/ROSARIO.png",
-      "Video": "https://rumble.com/live-hls-dvr/6j8cag/playlist.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false
-    },
-    {
       "Title": "ANT1",
       "Image": "https://iili.io/HviqlO7.png",
       "VideoOld": "https://wow.anixa.tv/live/ant1/chunklist_.m3u8",
