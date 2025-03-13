@@ -9,258 +9,6 @@
   ],
   "TV": [
     {
-      "Title": "Φιορεντίνα - Παναθηναϊκός",
-      "Image": "https://i.ibb.co/KxrYm8DY/Panathinaikos.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 3",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Αθλέτικ Μπιλμπάο - Ρόμα",
-      "Image": "https://i.ibb.co/ZpkJYK2q/GIOUNAITENT.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 5",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Φιορεντίνα - Παναθηναϊκός",
-      "Image": "https://i.ibb.co/yFjvPhP0/Chelsea.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 4",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Αθλέτικ Μπιλμπάο - Ρόμα",
-      "Image": "https://i.ibb.co/VcBMP6nn/RANGERS.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 9",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Λάτσιο - Πλζεν",
-      "Image": "https://i.ibb.co/GQXYvZDp/LION.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 7",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Άιντραχτ Φρανκφούρτης - Άγιαξ",
-      "Image": "https://i.ibb.co/9F0wLgJ/Totenam.jpg",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium629/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 8",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.mpd",
@@ -850,6 +598,258 @@
       "d": "Ξένη ταινία.",
       "s": 1722207600000,
       "e": 1722213600000
+    },
+    {
+      "Title": "Φιορεντίνα - Παναθηναϊκός",
+      "Image": "https://i.ibb.co/KxrYm8DY/Panathinaikos.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 3",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Αθλέτικ Μπιλμπάο - Ρόμα",
+      "Image": "https://i.ibb.co/ZpkJYK2q/GIOUNAITENT.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 5",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Φιορεντίνα - Παναθηναϊκός",
+      "Image": "https://i.ibb.co/yFjvPhP0/Chelsea.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 4",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Αθλέτικ Μπιλμπάο - Ρόμα",
+      "Image": "https://i.ibb.co/VcBMP6nn/RANGERS.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 9",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Λάτσιο - Πλζεν",
+      "Image": "https://i.ibb.co/GQXYvZDp/LION.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 7",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Άιντραχτ Φρανκφούρτης - Άγιαξ",
+      "Image": "https://i.ibb.co/9F0wLgJ/Totenam.jpg",
+      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium629/mono.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "EPGFileName": "cosmote.json",
+      "SKey": "Cosmote Sport 8",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": true,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://newembedplay.xyz/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://newembedplay.xyz"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
     }
   ]
 }
