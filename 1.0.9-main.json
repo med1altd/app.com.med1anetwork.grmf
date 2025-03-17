@@ -10,7 +10,7 @@
       "showCollapsibleBannerAds": false,
       "showInterstitialAds": true,
       "showInterstitialAdsLive": true,
-      "showInterstitialAdsVideo": false,
+      "showInterstitialAdsVideo": true,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
       "Casting_App_Id": "283C71D7",
