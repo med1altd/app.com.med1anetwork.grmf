@@ -685,7 +685,7 @@
       "pseudoUserIdCheck": true,
       "advertisingIdKey": "a",
       "advertisingIdCheck": true,
-      "eventKey": "organicUserInList1",
+      "eventKey": "organicUserInList2",
       "eventTrigger": true
     }
   ]
