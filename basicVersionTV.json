@@ -586,8 +586,8 @@
       "liveContent": true,
       "liveDescription": false,
       "enabledDrm": false,
-      "TwitchID": "livethess03",
-      "enabledTwitchFetching": false,
+      "TwitchID": "xylagany_paradosi",
+      "enabledTwitchFetching": true,
       "availability": {
         "US": true,
         "DE": true,
