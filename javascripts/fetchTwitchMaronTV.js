@@ -40,3 +40,27 @@ function functionWithHTTPResult(result) {
     });
   }
 }
+
+// Helper function to extract a URL based on a keyword
+function extractUrl(inputString, keyword) {
+  const keywordIndex = inputString.indexOf(keyword);
+
+  if (keywordIndex === -1) {
+    return null; // Keyword not found
+  }
+
+  // Find the last quote before the keyword
+  const lastQuoteBefore = inputString.lastIndexOf('"', keywordIndex);
+  if (lastQuoteBefore === -1) {
+    return null;
+  }
+
+  // Find the first quote after the keyword
+  const firstQuoteAfter = inputString.indexOf('"', keywordIndex + keyword.length);
+  if (firstQuoteAfter === -1) {
+    return null;
+  }
+
+  // Extract the substring between these indices
+  return inputString.substring(lastQuoteBefore + 1, firstQuoteAfter);
+}
