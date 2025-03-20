@@ -43,7 +43,7 @@ function functionWithHTTPResult(result) {
 
 // Helper function to extract a URL based on a keyword
 function extractUrl(inputString, keyword) {
-  const keywordIndex = inputString.indexOf(keyword);
+  const keywordIndex = inputString.lastIndexOf(keyword);
 
   if (keywordIndex === -1) {
     return null; // Keyword not found
