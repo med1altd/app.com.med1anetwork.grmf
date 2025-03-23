@@ -4,13 +4,13 @@
       "isLive": true,
       "isWorking": true,
       "isTest": false,
-      "showAds": true,
+      "showAds": false,
       "isShowingAdsWebView": false,
       "showBannerAds": false,
       "showCollapsibleBannerAds": false,
-      "showInterstitialAds": true,
-      "showInterstitialAdsLive": true,
-      "showInterstitialAdsVideo": true,
+      "showInterstitialAds": false,
+      "showInterstitialAdsLive": false,
+      "showInterstitialAdsVideo": false,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
       "Casting_App_Id": "283C71D7",
@@ -148,14 +148,14 @@
   ],
   "Ads": [
     {
-      "APP_ID_AdMob": "ca-app-pub-1981269273781608~1547431711",
+      "APP_ID_AdMob": "",
       "Banner_Id_AdMob": "",
       "Banner_Id_AdMobReal": "",
-      "Interstitial_Id_AdMob": "ca-app-pub-1981269273781608/6374346430",
-      "Interstitial_Id_AdMobReal": "ca-app-pub-1981269273781608/6374346430",
+      "Interstitial_Id_AdMob": "",
+      "Interstitial_Id_AdMobReal": "",
       "Rewarded_Id_AdMob": "",
       "Rewarded_Id_AdMobReal": "",
-      "AppOpen_Id_AdMob": "ca-app-pub-3940256099942544/9257395921",
+      "AppOpen_Id_AdMob": "",
       "RewardedInterstitial_Id_AdMob": "",
       "APP_ID_Unity": "5598984",
       "Banner_Id_Unity": "Banner_Android",
@@ -401,21 +401,21 @@
       "ImageOld": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionKTMY.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionET.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionEPT.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Series": [
@@ -424,21 +424,21 @@
       "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKSMY.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Σειρές",
       "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionES.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionETS.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Kids": [
@@ -447,21 +447,21 @@
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPT.json",
       "Type": "Movies",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
       "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPS.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",
       "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionPYK.json",
       "Type": "YouTube",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Fetch": [
