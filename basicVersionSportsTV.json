@@ -568,7 +568,7 @@
       "s": 1722208200000,
       "e": 1722211800000
     },
-   {
+    {
       "Title": "THESSALIA TV",
       "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
       "Video": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/javascripts/contents/fetchTwitchThessaliaTV.js",
@@ -588,7 +588,7 @@
       "enabledDrm": false,
       "TwitchID": "xylagany_paradosi",
       "enabledTwitchFetching": false,
-      "requiredJavascriptExecution": true.
+      "requiredJavascriptExecution": true,
       "availability": {
         "US": true,
         "DE": true,
