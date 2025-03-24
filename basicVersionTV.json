@@ -588,7 +588,7 @@
       "enabledDrm": false,
       "TwitchID": "xylagany_paradosi",
       "enabledTwitchFetching": false,
-      "requiredJavascriptExecution": true.
+      "requiredJavascriptExecution": true,
       "availability": {
         "US": true,
         "DE": true,
