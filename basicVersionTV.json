@@ -571,7 +571,7 @@
     {
       "Title": "THESSALIA TV",
       "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
-      "Video": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/javascripts/contents/fetchTwitchThessaliaTV.js",
+      "Video": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/javascripts/fetchTwitchThessaliaTV.js",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": "Thessalia TV",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
