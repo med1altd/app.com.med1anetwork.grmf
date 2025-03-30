@@ -2,7 +2,7 @@
 function mainFunction() {
   return JSON.stringify({
     Type: "HTTPRequestNeeded",
-    Result: "https://pwn.sh/tools/streamapi.py?url=https://www.twitch.tv/hackypixelz"
+    Result: "https://pwn.sh/tools/streamapi.py?url=https://www.twitch.tv/livethess03"
   });
 }
 
