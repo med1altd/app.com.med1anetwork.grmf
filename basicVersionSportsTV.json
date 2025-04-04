@@ -587,8 +587,8 @@
       "liveDescription": false,
       "enabledDrm": false,
       "TwitchID": "xylagany_paradosi",
-      "enabledTwitchFetching": false,
-      "requiredJavascriptExecution": true,
+      "enabledTwitchFetching": true,
+      "requiredJavascriptExecution": false,
       "availability": {
         "US": true,
         "DE": true,
