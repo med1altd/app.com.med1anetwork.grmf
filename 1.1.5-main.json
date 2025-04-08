@@ -72,7 +72,7 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": true,
+      "MessageAlert": false,
       "MessageText": "Ενημέρωση Χρηστών: Ύστερα από το νέο Νομοσχέδιο περί προστασίας πνευματικών δικαιωμάτων και καταπολέμησης της πειρατείας, οι Όροι Χρήσης της εφαρμογής μας έχουν ανανεωθεί... Μπορείτε να τους διαβάσετε αναλυτικά.!",
       "MessageButtonText": "Όροι Χρήσης",
       "MessageButtonDestination": "https://sites.google.com/view/movieflixgrapp/terms-of-use",
