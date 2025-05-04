@@ -12,7 +12,7 @@
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.mpd",
-      "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/mono.m3u8",
+      "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8",
       "VideoOld": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "SKey": "ERT 1",
@@ -214,7 +214,8 @@
       "Title": "MEGA",
       "Image": "https://i.postimg.cc/HLb0yrQs/mega.png",
       "Video": "https://wow.anixa.tv/live/mega/chunklist_.m3u8",
-      "VideoOld": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
+      "VideoOld": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8",
+      "VideoOld2": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/1/MEGA",
       "SKey": "Mega",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -232,9 +233,9 @@
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
-        "US": false,
-        "DE": false,
-        "JP": false
+        "US": true,
+        "DE": true,
+        "JP": true
       },
       "enabledEPGByAPI": false,
       "t": "[K12] NCIS - 16ος Κύκλος",
@@ -266,9 +267,9 @@
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
-        "US": false,
-        "DE": false,
-        "JP": false
+        "US": true,
+        "DE": true,
+        "JP": true
       },
       "enabledEPGByAPI": false,
       "t": "[K12] NCIS - 16ος Κύκλος",
@@ -278,12 +279,42 @@
       "embed": true,
       "embedFullscreen": "[aria-label=\"Fullscreen\""
     },
+        {
+      "Title": "MEGA News",
+      "Image": "https://i.ibb.co/VWXHQ4xT/mega-news.png",
+      "Video": "https://streamcdnh14-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/1/MEGA",
+      "SKey": "Mega",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "t": "[K12] NCIS - 16ος Κύκλος",
+      "d": "Το πρόγραμμα παρέχει την επιλογή υποτίτλων. Αστυνομική, δραματική σειρά, αμερικανικής παραγωγής του 2018-2019 [Περιέχει σκηνές βίας και σκηνές ακατάλληλης φρασεολογίας]. Επεισόδιο 11: Toil and Trouble - Κόπος και πρόβλημα. Ο υπουργός Άμυνας Γουίν Κρόφορντ κλείνει την έρευνα για τη δολοφονία του Γκιμπς και απαιτεί τη σύλληψη των ΜακΓκί και Τόρες για τις πράξεις τους στην υπόθεση. Παίζουν: Μαρκ Χάρμον, Σον Μάρεϊ, Βίλμερ Βαλντεράμα, Έμιλυ Γουίκερσαμ, Μαρία Μπέλο, Μπράιαν Ντίτζεν, Ντιόνα Ριζονόβερ, Ρόκι Κάρολ, Ντέιβιντ ΜακΚάλουμ. Σκηνοθεσία: Λέσλι Λίμπαν.",
+      "s": 1722209400000,
+      "e": 1722213000000
+    },
     {
       "Title": "ANT1",
       "Image": "https://iili.io/HviqlO7.png",
       "Video": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
-      "VideoOld": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
-      "VideoOldOld": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8",
+      "VideoOld": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8",
       "LiveUrl": "https://www.antenna.gr/tvguide",
       "SKey": "Ant1",
       "StartString": "b_446432",
@@ -409,6 +440,7 @@
     {
       "Title": "SKAI",
       "Image": "https://i.postimg.cc/Bbn2kNRX/skai.png",
+      "VideoOld": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/javascripts/fetchTwitchMaronTV.js",
       "Video": "https://skai-live.siliconweb.com/media/cambria4/index.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/7/%CE%A3%CE%9A%CE%91%CE%AA",
       "SKey": "Skai",
@@ -425,12 +457,52 @@
       "DrmAPIKey": "https://www.skai.gr/tv/live",
       "LicenseServerKey": "LicenseServerUrl",
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
-      "drmInfoWay": "View-Source",
+      "drmInfoWay": "",
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
-      "enabledDrm": true,
-      "requiredJavascriptExecution": true,
+      "requiredJavascriptExecution": false,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": false,
+        "DE": false,
+        "JP": false
+      },
+      "enabledEPGByAPI": false,
+      "t": "[K12] F.B.I. Most Wanted - 3ος Κύκλος",
+      "d": "Ξένη σειρά [Το πρόγραμμα περιέχει σκηνές με βία]. Επεισόδιο 13: Overlooked. Σ' αυτό το επεισόδιο, η ομάδα του FBI προσπαθεί να εξιχνιάσει μια δύσκολη υπόθεση. Μια μητέρα και η κόρη της πέφτουν θύματα δολοφονίας, ενώ ο σύζυγος και πατέρας, ο οποίος κατηγορείται για υπεξαίρεση μεγάλου χρηματικού ποσού, έχει εξαφανιστεί χωρίς κανείς να ξέρει πού βρίσκεται [Πρόγραμμα με υπότιτλους].",
+      "s": 1722209400000,
+      "e": 1722213000000
+    },
+    {
+      "Title": "SKAI - Big Brother [Live Stream]",
+      "Image": "https://i.postimg.cc/Bbn2kNRX/skai.png",
+      "VideoOld": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/javascripts/fetchTwitchMaronTV.js",
+      "Video": "https://skai-live-gr-big.siliconweb.com/skaidrm/bigb_abr/playlist.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/7/%CE%A3%CE%9A%CE%91%CE%AA",
+      "SKey": "Skai",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "DrmVideoType": "mpd'",
+      "DrmSystem": "/widevine",
+      "DrmAPIKey": "https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live",
+      "LicenseServerKey": "LicenseServerUrl",
+      "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
+      "drmInfoWay": "View-Source",
+      "quoteChar": "'",
+      "isUnlocked": false,
+      "liveContent": true,
+      "liveDescription": true,
+      "requiredJavascriptExecution": false,
+      "enabledDrm": false,
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
@@ -458,7 +530,7 @@
       "EndStringD": "</span>",
       "StartD": 10,
       "EndD": 0,
-      "isUnlocked": true,
+      "isUnlocked": false,
       "liveContent": false,
       "liveDescription": false,
       "enabledDrm": false,
@@ -599,853 +671,6 @@
       "d": "Ξένη ταινία.",
       "s": 1722207600000,
       "e": 1722213600000
-    },
-    {
-      "Title": "THESSALIA TV",
-      "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
-      "Video": "https://github.com/med1altd/streams/raw/main/channels/thessalia.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "SKey": "Thessalia TV",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": false,
-      "liveContent": true,
-      "liveDescription": false,
-      "enabledDrm": false,
-      "TwitchID": "livethess03",
-      "enabledTwitchFetching": true,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "t": "[K16] Ξένη Ταινία",
-      "d": "Ξένη ταινία.",
-      "s": 1722207600000,
-      "e": 1722213600000
-    },
-    {
-      "Title": "ROSARIO [30.05.2025]: TOQUEL LIVE STUDIO CAMERA 24/7 (NO SOUND)",
-      "Image": "https://i.ibb.co/SDgmf75N/ROSARIO.png",
-      "Video": "https://rumble.com/live-hls-dvr/6j8cag/playlist.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false
-    },
-    {
-      "Title": "Cosmote Sport 1",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium622/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 1",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 2",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium623/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 2",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 3",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 3",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 4",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 4",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 5",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 5",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 6",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium627/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 6",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 7",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 7",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 8",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium629/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 8",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Cosmote Sport 9",
-      "Image": "https://play-lh.googleusercontent.com/29uz48i_agqG2TIck7BGyzG6KjtoLpMcT80KbdmRTy_rdB-2usiquaBkI9uYxO-UcBU=w240-h480-rw",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "cosmote.json",
-      "SKey": "Cosmote Sport 9",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports 1",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium631/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports 1",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports 2",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium632/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports 2",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports 3",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium633/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports 3",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports 4",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium634/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports 4",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports 5",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium635/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports 5",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports 6",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium636/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports 6",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports News Greece",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium639/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "Action 24",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports Premier League Greece",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium599/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "Action 24",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports Prime Greece",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium638/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports Prime",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
-      "Title": "Nova Sports Start Greece",
-      "Image": "https://play-lh.googleusercontent.com/JddvndmKSfELypZfuY1QBXnpH4s2T-WzX8N93Du_Q376CkTKUHBOMhyjSbo8NHLR4g",
-      "Video": "https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports Start",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://newembedplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://newembedplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
     }
   ]
 }
