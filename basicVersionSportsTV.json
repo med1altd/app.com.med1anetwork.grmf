@@ -279,6 +279,37 @@
       "embedFullscreen": "[aria-label=\"Fullscreen\""
     },
     {
+      "Title": "MEGA News",
+      "Image": "https://i.ibb.co/VWXHQ4xT/mega-news.png",
+      "Video": "https://streamcdnh14-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8",
+      "LiveUrl": "https://programmatileorasis.gr/free/1/MEGA",
+      "SKey": "Mega",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false,
+      "enabledDrm": false,
+      "TwitchID": null,
+      "enabledTwitchFetching": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "t": "[K12] NCIS - 16ος Κύκλος",
+      "d": "Το πρόγραμμα παρέχει την επιλογή υποτίτλων. Αστυνομική, δραματική σειρά, αμερικανικής παραγωγής του 2018-2019 [Περιέχει σκηνές βίας και σκηνές ακατάλληλης φρασεολογίας]. Επεισόδιο 11: Toil and Trouble - Κόπος και πρόβλημα. Ο υπουργός Άμυνας Γουίν Κρόφορντ κλείνει την έρευνα για τη δολοφονία του Γκιμπς και απαιτεί τη σύλληψη των ΜακΓκί και Τόρες για τις πράξεις τους στην υπόθεση. Παίζουν: Μαρκ Χάρμον, Σον Μάρεϊ, Βίλμερ Βαλντεράμα, Έμιλυ Γουίκερσαμ, Μαρία Μπέλο, Μπράιαν Ντίτζεν, Ντιόνα Ριζονόβερ, Ρόκι Κάρολ, Ντέιβιντ ΜακΚάλουμ. Σκηνοθεσία: Λέσλι Λίμπαν.",
+      "s": 1722209400000,
+      "e": 1722213000000
+    },
+    {
       "Title": "ANT1",
       "Image": "https://iili.io/HviqlO7.png",
       "Video": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
