@@ -10,7 +10,7 @@
   "TV": [
     {
       "Title": "Nova Sports Prime Greece - Live: Παναθηναϊκός - Αναντολού Εφές (Εuroleague 2024-25 / Πλέι οφ - Game 5)",
-      "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",
+      "Image": "https://i.ibb.co/WWVWB0Yz/Untitled-1.png",
       "Video": "https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "EPGFileName": "nova.json",
@@ -23,7 +23,7 @@
       "EndStringD": "</span>",
       "StartD": 10,
       "EndD": 0,
-      "isUnlocked": false,
+      "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
       "enabledDrm": false,
