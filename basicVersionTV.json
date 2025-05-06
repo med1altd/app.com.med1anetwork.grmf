@@ -9,48 +9,6 @@
   ],
   "TV": [
     {
-      "Title": "Nova Sports Prime Greece - Live: Παναθηναϊκός - Αναντολού Εφές (Εuroleague 2024-25 / Πλέι οφ - Game 5)",
-      "Image": "https://i.ibb.co/WWVWB0Yz/Untitled-1.png",
-      "Video": "https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "EPGFileName": "nova.json",
-      "SKey": "NovaSports Prime",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": true,
-      "liveDescription": true,
-      "enabledDrm": false,
-      "TwitchID": null,
-      "enabledTwitchFetching": false,
-      "availability": {
-        "US": true,
-        "DE": true,
-        "JP": true
-      },
-      "enabledEPGByAPI": false,
-      "headers": [
-        {
-          "name": "Referer",
-          "value": "https://pkpakiplay.xyz/"
-        },
-        {
-          "name": "Origin",
-          "value": "https://pkpakiplay.xyz"
-        },
-        {
-          "name": "User-Agent",
-          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        }
-      ]
-    },
-    {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.mpd",
