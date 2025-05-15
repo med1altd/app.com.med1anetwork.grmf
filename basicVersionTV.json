@@ -27,7 +27,7 @@
       "DrmAPIKey": "https://api.app.ertflix.gr/v1/Player/AcquireContent?platformCodename=www&codename=ept1-live",
       "LicenseServerKey": "LicenseServerUrl",
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
-      "isUnlocked": true,
+      "isUnlocked": false,
       "liveContent": true,
       "liveDescription": true,
       "enabledDrm": false,
