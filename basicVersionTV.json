@@ -50,7 +50,7 @@
       "Title": "ERT2",
       "Image": "https://i.postimg.cc/ryjJjR7D/ert2.png",
       "VideoOld": "mpd",
-      "Video": "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/index.mpd",
+      "Video": "https://ertflix-greece.siliconweb.com/cmaf/618618_2341557/index.mpd",
       "VideoNEW": "https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/87/%CE%95%CE%A1%CE%A42",
       "SKey": "ERT 2",
@@ -87,7 +87,7 @@
     {
       "Title": "ERT3",
       "Image": "https://iili.io/HviqRff.png",
-      "Video": "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/index.mpd",
+      "Video": "https://ertflix-greece.siliconweb.com/cmaf/618618_2341560/index.mpd",
       "VideoOld": "mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "SKey": "ERT 3",
