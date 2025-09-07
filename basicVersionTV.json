@@ -550,7 +550,7 @@
     {
       "Title": "OPEN",
       "Image": "https://i.postimg.cc/nzZ4YnkK/open.png",
-      "Video": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
+      "Video": "https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/99/Open%20Beyond",
       "SKey": "Open Beyond",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
