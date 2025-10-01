@@ -124,7 +124,7 @@
     {
       "Title": "ERT WORLD",
       "Image": "https://iili.io/Hviq7Ul.png",
-      "Video": "https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd",
+      "Video": "https://ertflix-ertworld.siliconweb.com/cmaf/618618_3479286/index.mpd",
       "LiveUrl": "https://www.megatv.com/live/",
       "SKey": null,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -151,7 +151,7 @@
     {
       "Title": "ERT NEWS",
       "Image": "https://iili.io/HviqaJ2.png",
-      "Video": "https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd",
+      "Video": "https://telmaco-cdn.akamaized.net/ertnews-cc/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "SKey": "ERT News",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
