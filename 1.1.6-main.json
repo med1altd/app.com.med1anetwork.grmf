@@ -706,7 +706,7 @@
       "rowsOfItemsPerPage": [
         {
           "columns": 2,
-          "rows": 50
+          "rows": 25
         },
         {
           "columns": 3,
@@ -714,7 +714,7 @@
         },
         {
           "columns": 4,
-          "rows": 20
+          "rows": 25
         }
       ]
     }
