@@ -699,5 +699,24 @@
       "advertisingIdCheck": true,
       "checkAudience": false
     }
+  ],
+  "PageManagement": [
+    {
+      "minVisibleRowsForLandscape": 3,
+      "rowsOfItemsPerPage": [
+        {
+          "columns": 2,
+          "rows": 50
+        },
+        {
+          "columns": 3,
+          "rows": 25
+        },
+        {
+          "columns": 4,
+          "rows": 20
+        }
+      ]
+    }
   ]
 }
