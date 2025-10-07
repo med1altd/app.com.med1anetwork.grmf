@@ -730,11 +730,7 @@
       "GamatoTV": [
         {
           "name": "Referer",
-          "value": " https://live.thessaliatv.gr/"
-        },
-        {
-          "name": "Origin",
-          "value": " https://live.thessaliatv.gr"
+          "value": "http://gmtcloud.best/"
         },
         {
           "name": "User-Agent",
