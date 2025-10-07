@@ -724,5 +724,23 @@
       "Login": "34d01aa8df55c068228d",
       "Key": "92wz2W8wZLCaqe8"
     }
+  ],
+  "Headers": [
+    {
+      "GamatoTV": [
+        {
+          "name": "Referer",
+          "value": " https://live.thessaliatv.gr/"
+        },
+        {
+          "name": "Origin",
+          "value": " https://live.thessaliatv.gr"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    }
   ]
 }
