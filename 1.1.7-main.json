@@ -253,7 +253,7 @@
       ],
       "Movies": [
         {
-          "Url": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/basicVersionKTMYVIDSRC.json",
+          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v1.7z",
           "Category": 0
         },
         {
