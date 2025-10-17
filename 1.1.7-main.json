@@ -670,6 +670,11 @@
     {
       "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
       "Title": "Added: Earlier -> Recently",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
+      "Title": "Added: Earlier -> Recently",
       "enabled": false
     },
     {
