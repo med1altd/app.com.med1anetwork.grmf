@@ -747,9 +747,11 @@
   ],
   "MovieDB": [
     {
-      "CaptchaPostHelperEnabled": false,
-      "Subs4FreePostHelperEnabled": false,
-      "Subs4FreeMultipleListHelperEnabled": false,
+      "Subs4FreeMultipleListHelperAutoRemoveFiles": false,
+
+      "CaptchaPostHelperEnabled": true,
+      "Subs4FreePostHelperEnabled": true,
+      "Subs4FreeMultipleListHelperEnabled": true,
       "SubsourceHelperEnabled": true,
       "WebViewHelperEnabled": true,
 
