@@ -753,8 +753,8 @@
       "SubsourceHelperEnabled": true,
       "WebViewHelperEnabled": true,
 
-      "extraSafetyFiltersForAllMovies": "{\"sk_28e18614a05275070009862d8bc0641ad1949dca686c0d3fd3d1353f9584190c\"}",
-      "subSourceAPIKeys": "",
+      "extraSafetyFiltersForAllMovies": " AND title IS NOT NULL AND title != '' AND imageMain IS NOT NULL AND imageMain != '' AND runtime IS NOT NULL AND runtime > 0 AND genres IS NOT NULL AND genres != '' AND day BETWEEN 1 AND 31 AND month BETWEEN 1 AND 12 AND year >= 0 ",
+      "subSourceAPIKeys": "{\"sk_28e18614a05275070009862d8bc0641ad1949dca686c0d3fd3d1353f9584190c\"}",
 
       "CaptchaPostHelperTimeout": 15000,
       "Subs4FreePostHelperTimeout": 15000,
