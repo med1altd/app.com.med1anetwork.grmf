@@ -744,5 +744,23 @@
         }
       ]
     }
+  ],
+  "MovieDB": [
+    {
+      "CaptchaPostHelperEnabled": true,
+      "Subs4FreePostHelperEnabled": true,
+      "Subs4FreeMultipleListHelperEnabled": true,
+      "SubsourceHelperEnabled": true,
+      "WebViewHelperEnabled": true,
+
+      "extraSafetyFiltersForAllMovies": "{\"sk_28e18614a05275070009862d8bc0641ad1949dca686c0d3fd3d1353f9584190c\"}",
+      "subSourceAPIKeys": "",
+
+      "CaptchaPostHelperTimeout": 15000,
+      "Subs4FreePostHelperTimeout": 15000,
+      "Subs4FreeMultipleListHelperTimeout": 15000,
+      "WebViewHelperTimeout": 15000,
+      "CaptchaPostHelperTimeout": 15000
+    }
   ]
 }
