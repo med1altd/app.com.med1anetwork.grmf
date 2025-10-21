@@ -762,7 +762,8 @@
       "Subs4FreePostHelperTimeout": 15000,
       "Subs4FreeMultipleListHelperTimeout": 15000,
       "WebViewHelperTimeout": 15000,
-      "CaptchaPostHelperTimeout": 15000
+      "CaptchaPostHelperTimeout": 15000,
+      "VidEmbedHelperTimeout": 15000
     }
   ]
 }
