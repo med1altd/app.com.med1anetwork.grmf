@@ -280,7 +280,7 @@
       ],
       "Kids": [
         {
-          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v1.7z",
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionMPT.json",
           "Category": 0
         },
         {
@@ -445,8 +445,8 @@
     {
       "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
-      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v1.7z",
-      "Type": "MoviesDB",
+      "JSON": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionMPT.json",
+      "Type": "Movies",
       "isUnlocked": true
     },
     {
