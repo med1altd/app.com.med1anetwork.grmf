@@ -778,10 +778,10 @@
       "SubDLSelectedFromListHelperTimeout": 15000,
       "GreekOfficialSubsHelperTimeout": 15000,
       "GreekOfficialSubsSelectedHelperTimeout": 15000,
-      "Subs4FreeMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
-      "SubsourceListHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
-      "SubDLMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
-      "GreekOfficialSubsHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
+      "Subs4FreeMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "SubsourceListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "SubDLMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "GreekOfficialSubsHelperAutoRemoveFilesMinRequiredFolderSize": 0,
       "SubsourceHelperTimeout": 15000
     }
   ]
