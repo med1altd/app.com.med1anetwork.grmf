@@ -762,7 +762,27 @@
       "Subs4FreeMultipleListHelperTimeout": 15000,
       "WebViewHelperTimeout": 15000,
       "CaptchaPostHelperTimeout": 15000,
-      "VidEmbedHelperTimeout": 15000
+      "VidEmbedHelperTimeout": 15000,
+
+      "SubsourceSelectedFromListHelperEnabled": true,
+      "SubDLMultipleListHelperEnabled": true,
+      "SubDLSelectedFromListHelperEnabled": true,
+      "GreekOfficialSubsHelperEnabled": true,
+      "GreekOfficialSubsSelectedHelperEnabled": true,
+      "SubsourceListHelperAutoRemoveFiles": true,
+      "SubDLMultipleListHelperAutoRemoveFiles": true,
+      "GreekOfficialSubsHelperAutoRemoveFiles": true,
+      "SubsourceListHelperTimeout": 15000,
+      "SubsourceSelectedFromListHelperTimeout": 15000,
+      "SubDLMultipleListHelperTimeout": 15000,
+      "SubDLSelectedFromListHelperTimeout": 15000,
+      "GreekOfficialSubsHelperTimeout": 15000,
+      "GreekOfficialSubsSelectedHelperTimeout": 15000,
+      "Subs4FreeMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
+      "SubsourceListHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
+      "SubDLMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
+      "GreekOfficialSubsHelperAutoRemoveFilesMinRequiredFolderSize": 15000,
+      "SubsourceHelperTimeout": 15000
     }
   ]
 }
