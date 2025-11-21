@@ -539,7 +539,6 @@
     }
   ],
   "Filters": {
-    "FavoriteFilterEnabled": true,
     "Year": [
       {
         "Min": 1940,
@@ -747,6 +746,8 @@
   ],
   "MovieDB": [
     {
+      "FavoriteFilterEnabled": true,
+      
       "Subs4FreeMultipleListHelperAutoRemoveFiles": false,
 
       "CaptchaPostHelperEnabled": true,
