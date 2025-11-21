@@ -539,6 +539,7 @@
     }
   ],
   "Filters": {
+    "FavoriteFilterEnabled": true,
     "Year": [
       {
         "Min": 1940,
@@ -784,6 +785,15 @@
       "SubDLMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
       "GreekOfficialSubsHelperAutoRemoveFilesMinRequiredFolderSize": 0,
       "SubsourceHelperTimeout": 15000
+    }
+  ],
+  "Player": [
+    {
+      "CustomizeSubtitlesEnabled": true,
+      "CustomizeSubtitlesMinSize": 0.05,
+      "CustomizeSubtitlesMaxSize": 0.10,
+      "CustomizeSubtitlesMinPadding": 0.00,
+      "CustomizeSubtitlesMaxPadding": 0.25
     }
   ]
 }
