@@ -794,7 +794,11 @@
       "CustomizeSubtitlesMinSize": 0.05,
       "CustomizeSubtitlesMaxSize": 0.10,
       "CustomizeSubtitlesMinPadding": 0.00,
-      "CustomizeSubtitlesMaxPadding": 0.25
+      "CustomizeSubtitlesMaxPadding": 0.25,
+      "CustomizeSubtitlesDelayEnabled": true,
+      "CustomizeSubtitlesMinDelay": -5.0,
+      "CustomizeSubtitlesMaxDelay": 5.0,
+      "CustomizeSubtitlesStep": 0.25,
     }
   ]
 }
