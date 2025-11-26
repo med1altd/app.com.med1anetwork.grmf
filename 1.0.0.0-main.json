@@ -799,7 +799,7 @@
       "CustomizeSubtitlesMinDelay": -5.0,
       "CustomizeSubtitlesMaxDelay": 5.0,
       "CustomizeSubtitlesStep": 0.2,
-      "CustomizeSubtitlesDelayTimeout": 10001
+      "CustomizeSubtitlesDelayTimeout": 10000
     }
   ]
 }
