@@ -313,7 +313,7 @@
     {
       "Title": "ANT1",
       "Image": "https://iili.io/HviqlO7.png",
-      "Video": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
+      "Video": "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8",
       "VideoOld": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8",
       "LiveUrl": "https://www.antenna.gr/tvguide",
       "SKey": "Ant1",
@@ -345,7 +345,7 @@
     {
       "Title": "Makedonia TV",
       "Image": "https://iili.io/Hviq5l4.png",
-      "Video": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8",
+      "Video": "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8",
       "VideoOld": "https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/17/TV%20%CE%9C%CE%91%CE%9A%CE%95%CE%94%CE%9F%CE%9D%CE%99%CE%91",
       "SKey": "Makedonia TV",
