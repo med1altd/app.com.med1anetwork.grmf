@@ -1,7 +1,7 @@
 {
   "Status": [
     {
-      "isLive": false,
+      "isLive": true,
       "isWorking": true,
       "isTest": false,
       "showAds": true,
