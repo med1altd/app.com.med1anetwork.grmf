@@ -407,7 +407,7 @@
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
       "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/ET_v1.7z",
-      "Type": "Movies",
+      "Type": "MoviesDB",
       "isUnlocked": true
     },
     {
