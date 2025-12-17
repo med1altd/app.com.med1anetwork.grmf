@@ -839,29 +839,53 @@
       "SocialMediaOptionListJSON": [
         {
           "name": "Instagram",
-          "nameGreek": "Email",
-          "description": "Contact us",
-          "descriptionGreek": "Follow us",
-          "image": "instagram_icon",
-          "url": "https://instagram.com"
+          "nameGreek": "Instagram",
+          "description": "Follow us",
+          "descriptionGreek": "Ακολουθήστε μας",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png",
+          "url": "https://instagram.com/@movieflixgr"
+        },
+        {
+          "name": "YouTube",
+          "nameGreek": "YouTube",
+          "description": "Subscribe to our channel",
+          "descriptionGreek": "Εγγραφείτε στο κανάλι μας",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png",
+          "url": "https://www.youtube.com/@MovieFlixEurope"
+        },
+        {
+          "name": "Facebook",
+          "nameGreek": "Facebook",
+          "description": "Like our page",
+          "descriptionGreek": "Κάντε like στη σελίδα μας",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1200px-2021_Facebook_icon.svg.png",
+          "url": "https://www.facebook.com/profile.php?id=61584994453114"
         },
         {
           "name": "Discord",
-          "nameGreek": "Email",
-          "description": "Contact us",
-          "descriptionGreek": "Join community",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEi63DNsFmXnF8jbqlLloNIapSgK2UERvyQ&s",
-          "url": "https://discord.gg"
+          "nameGreek": "Discord",
+          "description": "Join our community",
+          "descriptionGreek": "Μπείτε στην κοινότητα",
+          "image": "https://cdn-icons-png.flaticon.com/512/3670/3670157.png",
+          "url": "https://discord.gg/hsqyykuE"
+        },
+        {
+          "name": "Website",
+          "nameGreek": "Ιστοσελίδα",
+          "description": "Visit our website",
+          "descriptionGreek": "Επισκεφθείτε την ιστοσελίδα μας",
+          "image": "https://marketplace.canva.com/IpyJU/MAFPM4IpyJU/1/tl/canva-icon-website-MAFPM4IpyJU.png",
+          "url": "https://movieflixgr.vercel.app/"
         },
         {
           "name": "Email",
           "nameGreek": "Email",
           "description": "Contact us",
-          "descriptionGreek": "Contact us",
-          "image": "instagram_icon",
-          "url": "mailto:support@email.com"
+          "descriptionGreek": "Επικοινωνήστε μαζί μας",
+          "image": "https://cdn-icons-png.flaticon.com/512/3178/3178158.png",
+          "url": "mailto:movieflix@europe.com"
         }
-      ]     
+      ]
     }
   ]
 }
