@@ -828,6 +828,8 @@
   ],
   "SocialMedia": [
     {
+      "SocialMediaVisible": true,
+      "SocialMediaImage": "https://www.facebook.com/",
       "SocialMediaTitle": "Follow Us",
       "SocialMediaTitleGreek": "ΑΚΟΛΟΥΘΗΣΕ Us",
       "SocialMediaDescription": "Follow Us",
@@ -837,25 +839,19 @@
       "SocialMediaOptionListJSON": [
         {
           "name": "Instagram",
-          "nameGreek": "Email",
-          "description": "Contact us",
-          "descriptionGreek": "Follow us",
+          "description": "Follow us",
           "image": "instagram_icon",
           "url": "https://instagram.com"
         },
         {
           "name": "Discord",
-          "nameGreek": "Email",
-          "description": "Contact us",
-          "descriptionGreek": "Join community",
+          "description": "Join community",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEi63DNsFmXnF8jbqlLloNIapSgK2UERvyQ&s",
           "url": "https://discord.gg"
         },
         {
           "name": "Email",
-          "nameGreek": "Email",
           "description": "Contact us",
-          "descriptionGreek": "Contact us",
           "image": "instagram_icon",
           "url": "mailto:support@email.com"
         }
