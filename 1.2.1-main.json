@@ -839,19 +839,25 @@
       "SocialMediaOptionListJSON": [
         {
           "name": "Instagram",
-          "description": "Follow us",
+          "nameGreek": "Email",
+          "description": "Contact us",
+          "descriptionGreek": "Follow us",
           "image": "instagram_icon",
           "url": "https://instagram.com"
         },
         {
           "name": "Discord",
-          "description": "Join community",
+          "nameGreek": "Email",
+          "description": "Contact us",
+          "descriptionGreek": "Join community",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEi63DNsFmXnF8jbqlLloNIapSgK2UERvyQ&s",
           "url": "https://discord.gg"
         },
         {
           "name": "Email",
+          "nameGreek": "Email",
           "description": "Contact us",
+          "descriptionGreek": "Contact us",
           "image": "instagram_icon",
           "url": "mailto:support@email.com"
         }
