@@ -888,5 +888,32 @@
         }
       ]
     }
+  ],
+  ,
+  "Streaming": [
+    {
+      "FetchersJSON": [
+        {
+          "VidSrc": [
+            {
+              "startUrl": "https://vidsrc-embed.ru/embed/movie?tmdb={TMDB_ID}&ds_lang=el",
+              "allowedHost": "vidsrc-embed.ru",
+              "timeoutMs": 10000,
+              "mediaRegex": ".*(\\.mp4|\\.m3u8|\\.webm|\\.mpd).*",
+              "simulateClick": true
+            }
+          ],
+          "VidFast": [
+            {
+              "startUrl": "https://vidfast.pro/movie/{TMDB_ID}",
+              "allowedHost": "vidfast.pro",
+              "timeoutMs": 10000,
+              "mediaRegex": ".*\\.(mp4|m3u8|webm|mpd)(\\?.*)?$",
+              "simulateClick": false
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
