@@ -830,11 +830,12 @@
     {
       "SocialMediaVisible": true,
       "SocialMediaImage": "icon_community",
-      "SocialMediaTitle": "Follow Us",
-      "SocialMediaTitleGreek": "ΑΚΟΛΟΥΘΗΣΕ Us",
-      "SocialMediaDescription": "Follow Us",
-      "SocialMediaDescriptionGreek": "ΑΚΟΛΟΥΘΗΣΕ Us",
-      "SocialMediaIcon": "icon_community",
+      "SocialMediaTitle": "Stay Connected",
+      "SocialMediaTitleGreek": "Μείνε Συνδεδεμένος",
+      "SocialMediaDescription": "Follow us on social media, join our community, and stay up to date with our latest news and updates.",
+      "SocialMediaDescriptionGreek": "Ακολούθησέ μας στα social media, γίνε μέλος της κοινότητάς μας και μείνε ενημερωμένος με όλα τα νέα και τις ανακοινώσεις μας."
+      
+      "SocialMediaIcon": "https://cdn-icons-png.flaticon.com/512/868/868281.png",
 
       "SocialMediaOptionListJSON": [
         {
