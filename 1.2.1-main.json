@@ -829,13 +829,13 @@
   "SocialMedia": [
     {
       "SocialMediaVisible": true,
-      "SocialMediaImage": "icon_community",
+      "SocialMediaImage": "https://i.ibb.co/d47KL0N9/152552125521.png",
       "SocialMediaTitle": "Stay Connected",
       "SocialMediaTitleGreek": "Μείνε Συνδεδεμένος",
       "SocialMediaDescription": "Follow us on social media, join our community, and stay up to date with our latest news and updates.",
       "SocialMediaDescriptionGreek": "Ακολούθησέ μας στα social media, γίνε μέλος της κοινότητάς μας και μείνε ενημερωμένος με όλα τα νέα και τις ανακοινώσεις μας.",
       
-      "SocialMediaIcon": "https://cdn-icons-png.flaticon.com/512/868/868281.png",
+      "SocialMediaIcon": "https://i.ibb.co/d47KL0N9/152552125521.png",
 
       "SocialMediaOptionListJSON": [
         {
@@ -883,7 +883,7 @@
           "nameGreek": "Email",
           "description": "Contact us",
           "descriptionGreek": "Επικοινωνήστε μαζί μας",
-          "image": "https://www.clipartmax.com/png/small/158-1587255_e-mail-contact-icons-white-png.png",
+          "image": "https://i.ibb.co/ZRYsV2TX/15212525112.png",
           "url": "mailto:movieflix@europe.com"
         }
       ]
