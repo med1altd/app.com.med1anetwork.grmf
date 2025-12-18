@@ -748,6 +748,7 @@
   ],
   "MovieDB": [
     {
+      "TrailerButtonVisible": true,
       "FavoriteFilterEnabled": true,
       
       "S4FMultipleListHelperAutoRemoveFiles": false,
@@ -767,7 +768,6 @@
       "S4FMultipleListHelperTimeout": 15000,
       "WebViewHelperTimeout": 15000,
       "CaptchaPostHelperTimeout": 15000,
-      "VidEmbedHelperTimeout": 15000,
 
       "SSSelectedFromListHelperEnabled": true,
       "SDLMultipleListHelperEnabled": true,
