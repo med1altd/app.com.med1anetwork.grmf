@@ -748,7 +748,7 @@
   ],
   "MovieDB": [
     {
-      "TrailerButtonVisible": false,
+      "TrailerButtonVisible": true,
       "FavoriteFilterEnabled": true,
       
       "S4FMultipleListHelperAutoRemoveFiles": false,
