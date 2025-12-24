@@ -920,5 +920,13 @@
       "QRCodeTutorialEnabled": true,
       "QRCodeTutorialYouTubeVideo": "QtBAWGdWtlI"
     }
+  ],
+  "TVSender": [
+    {
+      "TVSenderFirebaseProjectID": "movieflix-tv-player",
+      "TVSenderFirebaseApplicationID": "1:391056330176:android:77eb71b2aa5f073eff0c25",
+      "TVSenderFirebaseAPIKey": "AIzaSyBO3HS2hqQjhTEv2PYR9FzSzgKi8B-5Jh4",
+      "TVSenderFirebaseDatabaseUrl": "https://movieflix-tv-player-default-rtdb.europe-west1.firebasedatabase.app"
+    }
   ]
 }
