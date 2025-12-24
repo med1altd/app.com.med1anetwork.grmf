@@ -914,5 +914,11 @@
         }
       ]
     }
+  ],
+  "QRCode": [
+    {
+      "QRCodeTutorialEnabled": true,
+      "QRCodeTutorialYouTubeVideo": "QtBAWGdWtlI"
+    }
   ]
 }
