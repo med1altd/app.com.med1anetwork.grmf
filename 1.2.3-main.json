@@ -798,7 +798,7 @@
       "SDLDownloadBaseUrl": "https://dl.subdl.com/",
       "SDLApiSearch": "https://api3.subdl.com/auto?query=",
       "SDLLang": "greek",      
-      "SDLSourceName": "SDF",
+      "SDLSourceName": "SDL",
       "SDLSourceFolder": "sdl",
       
       "S4FBaseUrl": "https://www.subs4free.club",
