@@ -282,7 +282,7 @@
       ],
       "Kids": [
         {
-          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v1.7z",
+          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
           "Category": 0
         },
         {
@@ -415,7 +415,7 @@
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
-      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v1.7z",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
       "Type": "MoviesDB",
       "isUnlocked": true
     }
@@ -447,7 +447,7 @@
     {
       "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
-      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v1.7z",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
       "Type": "MoviesDB",
       "isUnlocked": true
     },
