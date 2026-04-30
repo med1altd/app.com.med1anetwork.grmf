@@ -60,7 +60,7 @@
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "CAS",
       "RewardedInterstitialAdsType": "CAS",
-      "AppOpenAdsType": "CAS",
+      "AppOpenAdsType": "AdMob",
       "DelayEveryAdUnit": false,
       "InitialDelay": "10000000000",
       "TVDelayAdMob": 240000,
