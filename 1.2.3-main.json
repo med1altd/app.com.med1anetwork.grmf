@@ -753,10 +753,10 @@
       
       "S4FMultipleListHelperAutoRemoveFiles": false,
 
-      "CaptchaPostHelperEnabled": true,
-      "S4FPostHelperEnabled": true,
-      "S4FMultipleListHelperEnabled": true,
-      "SSHelperEnabled": true,
+      "CaptchaPostHelperEnabled": false,
+      "S4FPostHelperEnabled": false,
+      "S4FMultipleListHelperEnabled": false,
+      "SSHelperEnabled": false,
       "WebViewHelperEnabled": true,
 
       "extraSafetyFiltersForAllMovies": "  AND title IS NOT NULL AND title != '' AND imageMain IS NOT NULL AND imageMain != '' AND runtime IS NOT NULL AND runtime > 0 AND genres IS NOT NULL AND genres != '' AND day BETWEEN 1 AND 31 AND month BETWEEN 1 AND 12 AND year >= 0  ",
@@ -769,11 +769,11 @@
       "WebViewHelperTimeout": 15000,
       "CaptchaPostHelperTimeout": 15000,
 
-      "SSSelectedFromListHelperEnabled": false,
-      "SDLMultipleListHelperEnabled": false,
-      "SDLSelectedFromListHelperEnabled": false,
-      "GOSubsHelperEnabled": false,
-      "GOSubsSelectedHelperEnabled": false,
+      "SSSelectedFromListHelperEnabled": true,
+      "SDLMultipleListHelperEnabled": true,
+      "SDLSelectedFromListHelperEnabled": true,
+      "GOSubsHelperEnabled": true,
+      "GOSubsSelectedHelperEnabled": true,
       "SSListHelperAutoRemoveFiles": true,
       "SDLMultipleListHelperAutoRemoveFiles": true,
       "GOSubsHelperAutoRemoveFiles": true,
