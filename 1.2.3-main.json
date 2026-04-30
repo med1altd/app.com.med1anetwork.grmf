@@ -751,12 +751,12 @@
       "TrailerButtonVisible": true,
       "FavoriteFilterEnabled": true,
       
-      "S4FMultipleListHelperAutoRemoveFiles": false,
+      "S4FMultipleListHelperAutoRemoveFiles": true,
 
-      "CaptchaPostHelperEnabled": false,
-      "S4FPostHelperEnabled": false,
-      "S4FMultipleListHelperEnabled": false,
-      "SSHelperEnabled": false,
+      "CaptchaPostHelperEnabled": true,
+      "S4FPostHelperEnabled": true,
+      "S4FMultipleListHelperEnabled": true,
+      "SSHelperEnabled": true,
       "WebViewHelperEnabled": true,
 
       "extraSafetyFiltersForAllMovies": "  AND title IS NOT NULL AND title != '' AND imageMain IS NOT NULL AND imageMain != '' AND runtime IS NOT NULL AND runtime > 0 AND genres IS NOT NULL AND genres != '' AND day BETWEEN 1 AND 31 AND month BETWEEN 1 AND 12 AND year >= 0  ",
