@@ -19,7 +19,7 @@
       "EPGIntervalTimeInMs": 900000,
       "RequestNewExpiredAdTime": 18000000000,
       "bypassLockedContent": true,
-      "unlockOption": false,
+      "unlockOption": true,
       "TVDelay": 240000,
       "VideoDelay": 240000,
       "MoviesInfoDelay": 240000,
