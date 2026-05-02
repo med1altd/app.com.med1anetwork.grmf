@@ -1,0 +1,933 @@
+{
+  "Status": [
+    {
+      "isLive": true,
+      "isWorking": true,
+      "isTest": false,
+      "showAds": true,
+      "isShowingAdsWebView": false,
+      "showBannerAds": false,
+      "showCollapsibleBannerAds": false,
+      "showInterstitialAds": true,
+      "showInterstitialAdsLive": true,
+      "showInterstitialAdsVideo": true,
+      "showRewardedInterstitialAds": false,
+      "showAppOpenAds": true,
+      "Casting_App_Id": "283C71D7",
+      "enabledCastOption": true,
+      "enabledServerAdRequestsCheck": false,
+      "EPGIntervalTimeInMs": 900000,
+      "RequestNewExpiredAdTime": 18000000000,
+      "bypassLockedContent": true,
+      "unlockOption": true,
+      "TVDelay": 240000,
+      "VideoDelay": 240000,
+      "MoviesInfoDelay": 240000,
+      "SeriesInfoDelay": 240000,
+      "MaxDailyAdRequests": 100,
+      "isActivationRequired": true,
+      "promote": false,
+      "promoteTitle": "MovieFlix Update Available",
+      "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
+      "promoteButtonTitle": "Download Now!",
+      "promoteUrl": "https://www.filmxy.vip/",
+      "promoteNotes": "*Keep in mind that...",
+      "promoteMessage": "",
+      "promoteMethod": "OnPlay",
+      "promoteActivities": "TV, Movies, Series",
+      "MessageOld": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1.3) της εφαρμογής \"MovieFlix: Live TV %26 Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
+      "Message": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο. ΠΑΝΑΓΙΩΤΗ ΑΝ ΤΟ ΒΛΕΠΕΙΣ ΠΕΣ ΑΥΓΟ! ",
+      "contactName": "Med1aNetwork",
+      "contactEmail": "movieflix@europe.com",
+      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
+      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MovieFlix\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
+      "DMCAUrl": "https://forms.gle/nhBEBGBH9H1JKNKh6",
+      "MoreImageUrl": "https://i.ibb.co/nRkWFQG/MORE.png",
+      "MoreImageUrlHorizontal": "https://i.ibb.co/9q8MHJG/MORE-HORIZONTAL.png",
+      "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
+      "DMCAImageUrl": "https://i.ibb.co/6wdZZ5x/Untitled-3.png",
+      "CodeExample": "greek_version_2020",
+      "MoreContentOption": false,
+      "AddContentOption": false,
+      "CalculateAndSendTimeSpentInActivity": true,
+      "CalculateCurentViewers": false,
+      "AddContentFormUrl": "https://movieflixforusers.vercel.app/addcontentform.html",
+      "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
+      "checkForUpdates": false,
+      "AdsType": "AdMob",
+      "BannerAdsType": "CAS",
+      "InterstitialAdsType": "AdMob",
+      "RewardedAdsType": "CAS",
+      "RewardedInterstitialAdsType": "CAS",
+      "AppOpenAdsType": "AdMob",
+      "DelayEveryAdUnit": false,
+      "InitialDelay": "10000000000",
+      "TVDelayAdMob": 240000,
+      "VideoDelayAdMob": 240000,
+      "MoviesInfoDelayAdMob": 240000,
+      "SeriesInfoDelayAdMob": 240000,
+      "TVDelayUnity": 10000,
+      "VideoDelayUnity": 10000,
+      "MoviesInfoDelayUnity": 10000,
+      "SeriesInfoDelayUnity": 10000,
+      "introductionEnabled": true,
+      "MessageAlert": false,
+      "MessageText": "       ❗️❗️❗️ Η ΜΕΓΑΛΥΤΕΡΗ ΕΝΗΜΕΡΩΣΗ ΣΤΗΝ ΙΣΤΟΡΙΑ ΤΟΥ GREEKFLIX ❗️❗️❗️ ✔️ 80.000+ νέες ξένες ταινίες ✔️ Διόρθωση σφαλμάτων αναπαραγωγής ✔️ Φίλτρα αναζήτησης ταινιών ✔️ Διόρθωση τηλεοπτικών σταθμών ✔️ Συνέχιση προβολής από το τελευταίο σημείο                                               ",
+      "MessageButtonText": "Όροι Χρήσης",
+      "MessageButtonDestination": "https://sites.google.com/view/movieflixgrapp/terms-of-use",
+      "MessageAdditionalWay": "",
+      "MessageImageUrl": "https://longreads.sport24.gr/super-league-2024-25/assets/gqqzTkiTDV/sl-24-25-sh-desktop-2560x1440.jpg",
+      "DMCAButtonEnabled": true,
+      "enabledAPIAdRequestsAndMatchRateCheck": false,
+      "adRequestsMinimum": 0,
+      "adRequestsMaximum": 1500,
+      "matchRateMinimum": 0.0,
+      "notMatchedAdRequestsLimit": 1500,
+      "enabledSortMovies": true,
+      "enabledFilterMovies": true,
+      "isAppReviewActive": true,
+      "AppOpensRequiredBeforeAppReview": 10,
+      "imagesReloadTimes": 3,
+      "isIntroductionRequired": false,
+      "shouldCheckOrganicUserBeforeAdMobConsent": true,
+      "enabledPrompting": false,
+      "enabledPromptForOnlyGooglePlayStoreUser": false,
+      "gifUrlPromptForOnlyGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
+      "gifUrlPromptForOnlyGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
+      "enabledDismissForPromptOnlyGooglePlayStoreUser": true,
+      "enabledPromptForGooglePlayStoreAndAudienceUser": true,
+      "remoteConfigKeyPromptForGooglePlayStoreAndAudienceUser": "show_prompt",
+      "gifUrlPromptForGooglePlayStoreAndAudienceUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
+      "gifUrlPromptForGooglePlayStoreAndAudienceUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
+      "enabledDismissForPromptGooglePlayStoreAndAudienceUser": false,
+      "enabledPromptForNotGooglePlayStoreUser": false,
+      "gifUrlPromptForNotGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
+      "gifUrlPromptForNotGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
+      "enabledDismissForPromptNotGooglePlayStoreUser": true
+    }
+  ],
+  "Introduction": [
+    {
+      "Image": "https://i.ibb.co/X8F9YfY/TE1.png",
+      "ImageGreece": "https://i.ibb.co/FJwnYhY/T1.png"
+    },
+    {
+      "Image": "https://i.ibb.co/SmJybrj/TE2.png",
+      "ImageGreece": "https://i.ibb.co/CKNCcRy/T2.png"
+    },
+    {
+      "Image": "https://i.ibb.co/hCtPWhw/TE3.png",
+      "ImageGreece": "https://i.ibb.co/9wk0w7m/T3.png"
+    },
+    {
+      "Image": "https://i.ibb.co/F3zYKRC/TE4.png",
+      "ImageGreece": "https://i.ibb.co/JcxqZTK/T4.png"
+    },
+    {
+      "Image": "https://i.ibb.co/kMZL913/TE5.png",
+      "ImageGreece": "https://i.ibb.co/Hr3Smwk/T5.png"
+    },
+    {
+      "Image": "https://i.ibb.co/MDmsHyX/TE6.png",
+      "ImageGreece": "https://i.ibb.co/JzpFNc5/T6.png"
+    },
+    {
+      "Image": "https://i.ibb.co/bQNqHW6/TE-T7.png",
+      "ImageGreece": "https://i.ibb.co/bQNqHW6/TE-T7.png"
+    },
+    {
+      "Image": "https://i.ibb.co/F4WbfJV/TE8.png",
+      "ImageGreece": "https://i.ibb.co/bK4Jm5f/T8.png"
+    }
+  ],
+  "Pre-Unlocked": [
+    {
+      "Code": "greek_version_2023"
+    }
+  ],
+  "Ads": [
+    {
+      "APP_ID_AdMob": "ca-app-pub-1981269273781608~1547431711",
+      "Banner_Id_AdMob": "",
+      "Banner_Id_AdMobReal": "",
+      "Interstitial_Id_AdMob": "ca-app-pub-1981269273781608/6374346430",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-1981269273781608/6374346430",
+      "Rewarded_Id_AdMob": "",
+      "Rewarded_Id_AdMobReal": "",
+      "AppOpen_Id_AdMob": "ca-app-pub-3940256099942544/9257395921",
+      "RewardedInterstitial_Id_AdMob": "",
+      "APP_ID_Unity": "5598984",
+      "Banner_Id_Unity": "Banner_Android",
+      "Interstitial_Id_Unity": "Interstitial_Android",
+      "Rewarded_Id_Unity": "Rewarded_Android",
+      "AppOpen_Id_Unity": "NO_ID",
+      "RewardedInterstitial_Id_Unity": "NO_ID",
+      "TVDelayBannerAdMob": 10000,
+      "VideoDelayBannerAdMob": 10000,
+      "TVDelayBannerUnity": 10000,
+      "VideoDelayBannerUnity": 10000,
+      "TVDelayInterstitialAdMob": 10000,
+      "VideoDelayInterstitialAdMob": 10000,
+      "MoviesInfoDelayInterstitialAdMob": 10000,
+      "SeriesInfoDelayInterstitialAdMob": 10000,
+      "TVDelayInterstitialUnity": 10000,
+      "VideoDelayInterstitialUnity": 10000,
+      "MoviesInfoDelayInterstitialUnity": 10000,
+      "SeriesInfoDelayInterstitialUnity": 10000,
+      "MoviesInfoDelayRewardedAdMob": 10000,
+      "SeriesInfoDelayRewardedAdMob": 10000,
+      "MoviesInfoDelayRewardedUnity": 0,
+      "SeriesInfoDelayRewardedUnity": 0,
+      "delayAppOpenMainActivity": 3000000,
+      "delayInterstitialRewardedMainActivity": 120000,
+      "delayBannerLiveStreamingActivity": 120000,
+      "delayInterstitialLiveStreamingActivity": 120000,
+      "delayInterstitialRewardedMoviesInfoActivity": 120000,
+      "delayRewardedMoviesInfoActivity": 120000,
+      "delayInterstitialRewardedSeriesInfoActivity": 120000,
+      "delayRewardedSeriesInfoActivity": 120000,
+      "delayBannerVideoStreamingActivity": 120000,
+      "delayInterstitialVideoStreamingActivity": 120000,
+      "enabledIntervalImpression": true,
+      "enabledIntervalClick": true,
+      "intervalImpressionInMs": 300000,
+      "intervalClickInMs": 360000,
+      "waitAppOpenMainActivity": false,
+      "waitInterstitialRewardedMainActivity": true,
+      "waitBannerLiveStreamingActivity": true,
+      "waitInterstitialLiveStreamingActivity": true,
+      "waitInterstitialRewardedMoviesInfoActivity": true,
+      "waitRewardedMoviesInfoActivity": true,
+      "waitInterstitialRewardedSeriesInfoActivity": true,
+      "waitRewardedSeriesInfoActivity": true,
+      "waitBannerVideoStreamingActivity": true,
+      "waitInterstitialVideoStreamingActivity": true,
+      "Pre-Delay": [
+        {
+          "AdMob": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ],
+          "Unity": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Rating": [
+    {
+      "InstagramUserName": "movieflixgr",
+      "isInstagramVisisible": true,
+      "isRatingVisible": false,
+      "RatingUrl": "https://play.google.com/store/apps/details?id=com.med1anetwork.grmf&referrer=utm_source=opera&utm_medium=organic&utm_campaign=rate_application",
+      "isInfoVisible": true,
+      "InfoTextOld": "MovieFlix Privacy Policy will be updated soon...",
+      "InfoTextOld1": "Τελευταία Ενημέρωση: Δευτέρα 7 Απριλίου 2025\n\nΑνακοίνωση Νομοθετικής Συμμόρφωσης και Αποποίησης Ευθυνών\n\nΗ εφαρμογή GreekFlix είναι πλήρως νόμιμη και συμβατή με την ισχύουσα νομοθεσία της Ευρωπαϊκής Ένωσης και της Ελλάδας, αναφορικά με τη διάθεση και χρήση διαδικτυακού περιεχομένου, όπως ορίζεται στην Ευρωπαϊκή Οδηγία 2000/31/ΕΚ (όπως αυτή έχει τροποποιηθεί και ενημερωθεί με την πάροδο των ετών). Όλοι οι χρήστες της εφαρμογής είναι υποχρεωμένοι να συμμορφώνονται με τους ισχύοντες νόμους περί πνευματικών δικαιωμάτων και προστασίας προσωπικών δεδομένων.\n\nΝομική Κατάσταση και Πειρατεία\n\nΗ εφαρμογή GreekFlix δεν φιλοξενεί ή παρέχει περιεχόμενο που παραβιάζει τα πνευματικά δικαιώματα. Η ευθύνη για το περιεχόμενο που προστίθεται και κοινοποιείται μέσω της εφαρμογής βαρύνει αποκλειστικά τους χρήστες της. Η εταιρεία μας δεν φέρει καμία ευθύνη για το περιεχόμενο που οι χρήστες ανεβάζουν ή μοιράζονται, εκτός αν το περιεχόμενο αυτό παραβιάζει τους Όρους Χρήσης ή τη νομοθεσία.\n\nΕπιπλέον, η εφαρμογή GreekFlix συμμορφώνεται με τη νέα νομοθεσία που αφορά στην παρακολούθηση και προστασία της πειρατείας μέσω διαδικτύου. Οι χρήστες δεν κινδυνεύουν από την νέα νομοθεσία, ούτε από την παρακολούθηση των IP διευθύνσεων τους, καθώς η εφαρμογή μας δεν αποθηκεύει ούτε παρακολουθεί τις προσωπικές πληροφορίες των χρηστών, όπως τα ΑΦΜ ή άλλες ευαίσθητες πληροφορίες. Όλες οι ενέργειες μέσω της εφαρμογής πραγματοποιούνται με πλήρη ανωνυμία και προστασία των προσωπικών δεδομένων των χρηστών.\n\nΑποποίηση Ευθυνών και Υποχρεώσεις Χρηστών\n\nΗ εταιρεία μας, σε συμφωνία με το άρθρο 15 της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, δεν έχει γενική υποχρέωση να παρακολουθεί ή να ελέγχει το περιεχόμενο που μεταφέρεται ή αποθηκεύεται μέσω της εφαρμογής. Η εφαρμογή παρέχει ένα εργαλείο για τη διανομή περιεχομένου, ενώ η ευθύνη για το περιεχόμενο που προστίθεται και διαμοιράζεται ανήκει εξολοκλήρου στους χρήστες. Συστήνουμε στους χρήστες να διασφαλίζουν ότι οποιοδήποτε περιεχόμενο ανεβάζουν ή κοινοποιούν είναι σύμφωνο με τους νόμους περί πνευματικών δικαιωμάτων.\n\nΗ GreekFlix διατηρεί το δικαίωμα να αφαιρέσει οποιοδήποτε περιεχόμενο το οποίο θεωρεί ότι παραβιάζει τους Όρους Χρήσης ή την ισχύουσα νομοθεσία, χωρίς να έχει την υποχρέωση να το κάνει.\n\nΝομιμότητα και Παρουσία στο Google Play Store\n\nΗ εφαρμογή GreekFlix είναι πλήρως νόμιμη και σύμφωνα με τους αυστηρούς ελέγχους που πραγματοποιεί η Google για την ένταξη εφαρμογών στο Google Play Store, η εφαρμογή μας παραμένει διαθέσιμη και δεν έχει αποσυρθεί. Η Google επιβάλλει αυστηρούς κανόνες και εξετάζει εξονυχιστικά τις εφαρμογές που διατίθενται στην πλατφόρμα της για να διασφαλίσει τη νομιμότητά τους. Η GreekFlix συμμορφώνεται πλήρως με αυτές τις απαιτήσεις και δεν παραπέμπει ποτέ σε εξωτερικούς παράνομους συνδέσμους ή περιεχόμενο που παραβιάζει τους νόμους περί πνευματικών δικαιωμάτων.\n\nΠροστασία των Προσωπικών Δεδομένων\n\nΣτην εφαρμογή GreekFlix, η προστασία των προσωπικών δεδομένων των χρηστών είναι ύψιστης σημασίας. Δεν συλλέγουμε, αποθηκεύουμε ή μοιραζόμαστε σε καμία περίπτωση προσωπικά δεδομένα όπως IP διευθύνσεις, ΑΦΜ ή άλλα ευαίσθητα προσωπικά στοιχεία με τρίτους ή οποιαδήποτε άλλη υπηρεσία.\n\nΗ εφαρμογή δεν κρατάει καμία IP διεύθυνση των χρηστών κατά τη διάρκεια της χρήσης της και δεν παρακολουθεί ούτε καταγράφει τις δραστηριότητές τους. Οι χρήστες παραμένουν ανώνυμοι κατά τη χρήση της εφαρμογής, και τα δεδομένα τους δεν μοιράζονται με οποιοδήποτε φορέα ή αρχή.\n\nΗ GreekFlix συμμορφώνεται πλήρως με τη νομοθεσία περί προστασίας προσωπικών δεδομένων (GDPR) και εξασφαλίζει ότι η προσωπική σας ασφάλεια και ιδιωτικότητα παραμένουν προστατευμένες. Δεν υπάρχουν ούτε θα υπάρξουν κοινές πρακτικές για τη συλλογή ή την πώληση των δεδομένων σας σε τρίτους.\n\nΑσφάλεια και Ιδιωτικότητα\n\nΗ GreekFlix αναγνωρίζει τη σημασία της εμπιστοσύνης των χρηστών και δεσμεύεται να διατηρεί την ανωνυμία τους. Όλα τα προσωπικά δεδομένα προστατεύονται αυστηρά και δεν χρησιμοποιούνται για κανέναν σκοπό που θα μπορούσε να παραβιάσει την ιδιωτικότητα των χρηστών. Η εφαρμογή μας δεν αποθηκεύει ΑΦΜ, IP διευθύνσεις ή άλλες προσωπικές πληροφορίες των χρηστών, εκτός από τα δεδομένα που απαιτούνται για τη λειτουργία της εφαρμογής.\n\nΕπικοινωνία και Διαδικασία Υποβολής Αιτήματος για Διόρθωση ή Αφαίρεση Περιεχομένου\n\nΕάν κάποιος χρήστης επιθυμεί να υποβάλει αίτημα για αφαίρεση περιεχομένου που παραβιάζει τα πνευματικά δικαιώματα ή άλλες νομικές απαιτήσεις, μπορεί να το κάνει μέσω της ειδικής φόρμας DMCA που βρίσκεται στη σελίδα υποστήριξης της εφαρμογής μας. Οι χρήστες μπορούν να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής για οποιοδήποτε νομικό θέμα ή ανησυχία.\n\nΑν ο χρήστης ανησυχεί για πιθανές κυρώσεις ή θέλει να εξασφαλίσει την πλήρη ανωνυμία του κατά τη χρήση της συσκευής του και της εφαρμογής, συνιστούμε τη χρήση ενός VPN. Η χρήση VPN είναι απολύτως νόμιμη και βοηθά στην απόκρυψη της πραγματικής διεύθυνσης IP, εξασφαλίζοντας ότι η δραστηριότητα του χρήστη στο διαδίκτυο παραμένει ιδιωτική και ασφαλής. Αυτός ο τρόπος προστασίας είναι χρήσιμος όχι μόνο για τη χρήση της εφαρμογής μας, αλλά και γενικότερα για την ασφάλεια και την προστασία της ιδιωτικότητας του χρήστη κατά τη χρήση της συσκευής του στο διαδίκτυο.",
+      "InfoTextOld2": "Τελευταία Ενημέρωση: Τετάρτη 17 Δεκεμβρίου 2025\n\n🔹 ΜΗΝ ΑΝΗΣΥΧΕΙΤΕ – ΕΙΣΤΕ ΑΣΦΑΛΕΙΣ\n\nΗ εφαρμογή MovieFlix / GreekFlix έχει σχεδιαστεί με απόλυτο σεβασμό στη νομιμότητα, την ιδιωτικότητα και την ασφάλεια των χρηστών.\n\nΗ εφαρμογή ΔΕΝ φιλοξενεί, ΔΕΝ αποθηκεύει και ΔΕΝ μεταδίδει απευθείας οπτικοακουστικό περιεχόμενο.\n\nΛειτουργεί αποκλειστικά ως media player / τεχνικό εργαλείο προβολής, προβάλλοντας συνδέσμους προς δημόσια διαθέσιμες πηγές τρίτων, με τρόπο αντίστοιχο ενός browser ή media player.\n\n🔹 ΝΟΜΙΜΟΤΗΤΑ ΚΑΙ ΝΟΜΙΚΗ ΚΑΛΥΨΗ\n\nΗ MovieFlix / GreekFlix συμμορφώνεται πλήρως με την Ευρωπαϊκή και Ελληνική Νομοθεσία, συμπεριλαμβανομένης της Οδηγίας 2000/31/ΕΚ (E-Commerce Directive).\n\nΗ εφαρμογή δεν φέρει ευθύνη για το περιεχόμενο των τρίτων παρόχων, ούτε για αλλαγές, διαθεσιμότητα ή γεωγραφικούς περιορισμούς αυτών.\n\n🔹 ΠΡΟΣΤΑΣΙΑ ΧΡΗΣΤΩΝ – ΚΑΝΕΝΑΣ ΚΙΝΔΥΝΟΣ ΠΡΟΣΤΙΜΩΝ\n\nΗ εφαρμογή δεν συλλέγει, δεν αποθηκεύει και δεν καταγράφει:\n- IP διευθύνσεις\n- ΑΦΜ\n- προσωπικά δεδομένα\n- ιστορικό προβολών\n\nΗ χρήση της εφαρμογής πραγματοποιείται ανώνυμα και δεν υπάρχει καμία ταυτοποίηση χρηστών.\n\n🔹 STREAMING & ΠΕΙΡΑΤΕΙΑ\n\nΗ εφαρμογή ΔΕΝ πραγματοποιεί streaming μέσω δικών της servers.\n\nΗ αναπαραγωγή γίνεται αποκλειστικά μέσω συνδέσμων τρίτων που είναι δημόσια προσβάσιμοι στο διαδίκτυο, με ευθύνη των παρόχων τους.\n\nΗ MovieFlix / GreekFlix λειτουργεί ως media browser και όχι ως πάροχος περιεχομένου.\n\n🔹 DMCA – ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ\n\nΥπάρχει ενσωματωμένη διαδικασία DMCA.\n\nΑρχική Σελίδα → Πληροφορίες → DMCA Report\n\nΟι νόμιμοι κάτοχοι πνευματικών δικαιωμάτων μπορούν να υποβάλουν αίτημα και οποιοδήποτε περιεχόμενο αφαιρείται άμεσα.\n\n🔹 GOOGLE PLAY & ΑΣΦΑΛΕΙΑ\n\nΗ εφαρμογή συμμορφώνεται με τις πολιτικές του Google Play Store και διατίθεται νόμιμα στην πλατφόρμα.\n\nΔεν περιέχει κακόβουλο λογισμικό, δεν τρέχει στο παρασκήνιο και δεν πραγματοποιεί κρυφές συνδέσεις.\n\n🔹 VPN\n\nΗ χρήση VPN ΔΕΝ είναι απαραίτητη.\n\nΗ επιλογή VPN αφορά αποκλειστικά την προσωπική ιδιωτικότητα του χρήστη και είναι απολύτως νόμιμη.\n\n🔹 ΤΕΛΙΚΗ ΣΗΜΕΙΩΣΗ\n\nΗ χρήση της εφαρμογής προϋποθέτει αποδοχή των παραπάνω όρων.\n\nΟι χρήστες είναι υπεύθυνοι για τη συμμόρφωσή τους με την ισχύουσα νομοθεσία της χώρας τους.",
+      "InfoText": "ℹ️ MovieFlix / GreekFlix – Πληροφορίες & Όροι Χρήσης\n\n📅 Τελευταία Ενημέρωση: Τρίτη 17 Δεκεμβρίου 2025\n\n✅ Μην ανησυχείτε – Είστε ασφαλείς\n\nΗ εφαρμογή MovieFlix / GreekFlix έχει σχεδιαστεί με γνώμονα τη νομιμότητα, την ιδιωτικότητα και την ασφάλεια των χρηστών.\n\nΗ εφαρμογή:\n- δεν φιλοξενεί\n- δεν αποθηκεύει\n- δεν μεταδίδει απευθείας\nοπτικοακουστικό περιεχόμενο.\n\nΛειτουργεί αποκλειστικά ως media player / τεχνικό εργαλείο προβολής, προβάλλοντας συνδέσμους προς δημόσια διαθέσιμες πηγές τρίτων, με τρόπο αντίστοιχο ενός browser ή media player.\n\nΔεν συλλέγουμε:\n- IP διευθύνσεις\n- ΑΦΜ\n- προσωπικά δεδομένα\n- ιστορικό προβολών\n\nΗ χρήση της εφαρμογής πραγματοποιείται ανώνυμα, χωρίς καταγραφή ή παρακολούθηση δραστηριότητας.\n\n❓ Συχνές Ερωτήσεις (FAQ)\n\n🔹 Είναι νόμιμη η εφαρμογή;\n\nΝαι. Η MovieFlix / GreekFlix συμμορφώνεται με την ευρωπαϊκή και ελληνική νομοθεσία (Οδηγία 2000/31/ΕΚ – E-Commerce Directive).\nΗ εφαρμογή δεν φιλοξενεί περιεχόμενο και λειτουργεί αποκλειστικά ως τεχνικό εργαλείο αναπαραγωγής.\n\n🔹 Κινδυνεύω με πρόστιμο ή νομικές κυρώσεις;\n\nΌχι.\nΗ εφαρμογή δεν ταυτοποιεί χρήστες, δεν συλλέγει IP ή άλλα προσωπικά στοιχεία και δεν καταγράφει δραστηριότητα.\n\nΗ χρήση της είναι αντίστοιχη με:\n- χρήση browser\n- χρήση media player\n- προβολή δημόσια διαθέσιμου περιεχομένου\n\n🔹 Παρακολουθείτε τι βλέπω;\n\nΌχι.\nΔεν καταγράφουμε:\n- τι παρακολουθείτε\n- πότε\n- για πόση ώρα\n\nΔεν υπάρχει ιστορικό προβολών και καμία σύνδεση περιεχομένου με χρήστη.\n\n🔹 Κρατάτε IP, ΑΦΜ ή άλλα προσωπικά δεδομένα;\n\nΌχι.\nΗ εφαρμογή δεν συλλέγει, δεν αποθηκεύει και δεν διαμοιράζεται προσωπικά δεδομένα.\n\nΗ MovieFlix / GreekFlix συμμορφώνεται πλήρως με τον GDPR.\n\n🔹 Η εφαρμογή κάνει streaming;\n\nΌχι.\nΗ εφαρμογή δεν διαθέτει δικούς της servers και δεν φιλοξενεί streams.\nΑναπαράγει συνδέσμους που διατίθενται δημόσια από τρίτες πηγές, με ευθύνη των παρόχων τους.\n\n🔹 Τι γίνεται αν κάποιο περιεχόμενο παραβιάζει πνευματικά δικαιώματα;\n\nΥπάρχει ενσωματωμένη διαδικασία DMCA.\n\n📍 Αρχική → Πληροφορίες → DMCA\n\nΟι νόμιμοι κάτοχοι πνευματικών δικαιωμάτων μπορούν να επικοινωνήσουν μαζί μας και το σχετικό περιεχόμενο αφαιρείται άμεσα.\n\n🔹 Η εφαρμογή είναι ασφαλής;\n\nΝαι.\nΔεν περιέχει κακόβουλο λογισμικό, δεν τρέχει στο παρασκήνιο και δεν πραγματοποιεί κρυφές συνδέσεις.\n\nΗ εφαρμογή διατίθεται και ελέγχεται μέσω του Google Play Store.\n\n🔹 Χρειάζομαι VPN;\n\nΌχι.\nΗ χρήση VPN δεν είναι απαραίτητη.\nΑφορά αποκλειστικά την προσωπική επιλογή του χρήστη για επιπλέον ιδιωτικότητα στο διαδίκτυο.\n\n🔹 Γιατί να σας εμπιστευτώ;\n\nΓιατί:\n- δεν κρύβουμε τον τρόπο λειτουργίας\n- δεν συλλέγουμε δεδομένα\n- έχουμε ξεκάθαρους όρους\n- προσφέρουμε επίσημο μηχανισμό DMCA\n\nΗ MovieFlix / GreekFlix είναι εργαλείο προβολής, τίποτα παραπάνω.\n\n📌 Τελική Σημείωση\n\nΗ χρήση της εφαρμογής προϋποθέτει αποδοχή των παραπάνω όρων.\nΟι χρήστες είναι υπεύθυνοι για τη συμμόρφωσή τους με την ισχύουσα νομοθεσία της χώρας τους.",
+      "isSubscriptionVisible": false,
+      "SubmissionUrl": "https://forms.gle/7tpqfUAkb8RF5Xvv5",
+      "PrivacyPolicyUrl": "https://movieflixgr.vercel.app/privacy-policy.html",
+      "privacyPolicyInfoButtonVisible": true,
+      "TermsOfUseUrl": "https://movieflixgr.vercel.app/terms-of-use.html",
+      "toUInfoButtonVisible": true,
+      "SiteUrl": "https://movieflixgr.vercel.app/",
+      "siteInfoButtonVisible": true,
+      "emailInfoButtonVisible": true
+    }
+  ],
+  "Standard": [
+    {
+      "TV": [
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionTV.json"
+        }
+      ],
+      "Movies": [
+        {
+          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v4.7z",
+          "Category": 0
+        },
+        {
+          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/ΕΤ_v1.7z",
+          "Category": 1
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionEPT.json",
+          "Category": 2
+        }
+      ],
+      "Series": [
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionKSMY.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionES.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionETS.json",
+          "Category": 2
+        }
+      ],
+      "Kids": [
+        {
+          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
+          "Category": 0
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionMPS.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionPYK.json",
+          "Category": 2
+        }
+      ]
+    }
+  ],
+  "Access": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKTMY.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionET.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionEPT.json",
+              "Category": 2
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKSMY.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionES.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionETS.json",
+              "Category": 2
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionMPT.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionMPS.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionPYK.json",
+              "Category": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "AccessTV": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKTMY.json",
+              "Category": 0
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionKSMY.json",
+              "Category": 0
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionMPT.json",
+              "Category": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "Movies": [
+    {
+      "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://i.ibb.co/rd5kj7d/image.png",
+      "ImageOld": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v4.7z",
+      "Type": "MoviesDB",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
+      "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/ΕΤ_v1.7z",
+      "Type": "MoviesDB",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
+      "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
+      "Type": "MoviesDB",
+      "isUnlocked": true
+    }
+  ],
+  "Series": [
+    {
+      "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
+      "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKSMY.json",
+      "Type": "Series",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Σειρές",
+      "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
+      "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionES.json",
+      "Type": "Series",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Τηλεοπτικές Σειρές",
+      "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
+      "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionETS.json",
+      "Type": "Series",
+      "isUnlocked": true
+    }
+  ],
+  "Kids": [
+    {
+      "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
+      "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
+      "Type": "MoviesDB",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
+      "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
+      "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPS.json",
+      "Type": "Series",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Παιδικά YouTube Κανάλια",
+      "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
+      "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionPYK.json",
+      "Type": "YouTube",
+      "isUnlocked": true
+    }
+  ],
+  "Fetch": [
+    {
+      "Title": "MediaFire",
+      "Regex": "",
+      "beforeEnd": 5,
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
+    },
+    {
+      "Title": "Voe",
+      "Regex": "",
+      "RegexOld": "https:\\/\\/delivery-node-[a-z0-9]+\\.voe-network\\.net\\/engine\\/hls2\\/\\d+\\/\\d+\\/[a-z0-9]+_,[^,]+,\\.urlset\\/master\\.m3u8\\?t=[A-Za-z0-9]+&s=\\d+&e=\\d+&f=\\d+&node=delivery-node-[a-z0-9]+\\.voe-network\\.net&i=\\d+\\.\\d+&sp=\\d+&asn=\\d+",
+      "beforeEnd": 0,
+      "Type": "m3u8",
+      "StartString": " \"https://delivery-node",
+      "EndString": "\"",
+      "Start": 2,
+      "End": 0
+    },
+    {
+      "Title": "VoeDirectGamatoTV",
+      "Regex": "",
+      "RegexOld": "https:\\/\\/delivery-node-[a-z0-9]+\\.voe-network\\.net\\/engine\\/hls2\\/\\d+\\/\\d+\\/[a-z0-9]+_,[^,]+,\\.urlset\\/master\\.m3u8\\?t=[A-Za-z0-9]+&s=\\d+&e=\\d+&f=\\d+&node=delivery-node-[a-z0-9]+\\.voe-network\\.net&i=\\d+\\.\\d+&sp=\\d+&asn=\\d+",
+      "beforeEnd": 0,
+      "Type": "m3u8",
+      "StartString": " \"https://delivery-node",
+      "EndString": "\"",
+      "Start": 2,
+      "End": 0
+    },
+    {
+      "Title": "VOLDOE",
+      "Regex": null,
+      "beforeEnd": 0,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    }
+  ],
+  "API": [
+    {
+      "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA",
+      "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA&Type=",
+      "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdMatchedRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA&Type=",
+      "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html",
+      "liveEPGJSONUrl": "https://api.github.com/gists/4cd6b3c4ede5f5433b7f4c54a86459e5",
+      "liveEPGJSONFileName": "overview.json",
+      "liveEPGJSONFileNames": [
+        {
+          "name": "overview.json"
+        },
+        {
+          "name": "cosmote.json"
+        },
+        {
+          "name": "nova.json"
+        }
+      ],
+      "voeTestID": "kqrw17iyoemx",
+      "client_id": "761312726828-pro410gsabvlikrjeq6ueqek6cub9ccr.apps.googleusercontent.com",
+      "client_secret": "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",
+      "refresh_token": "1//09EeAKb5aZtExCgYIARAAGAkSNwF-L9IrhOfctGuP2buM_jPgMjJi_iDd8xWnP_CxZt-5fEsRFLKpM6U3AlYEyta7POwUZo_ZMGg"
+    }
+  ],
+  "jsonArrayAdditionalWebViewCode": [
+    {
+      "VidHide": "javascript:(function(){var playButton = document.querySelector('.jw-icon.jw-icon-display');if (playButton) {playButton.click();}})()"
+    }
+  ],
+  "Filters": {
+    "Year": [
+      {
+        "Min": 1940,
+        "Max": 2024
+      }
+    ],
+    "Runtime": [
+      {
+        "Min": 0,
+        "Max": 300
+      }
+    ],
+    "Genres": [
+      {
+        "GreekTitle": "Δράση",
+        "Title": "Action"
+      },
+      {
+        "GreekTitle": "Περιπέτεια",
+        "Title": "Adventure"
+      },
+      {
+        "GreekTitle": "Τρόμου",
+        "Title": "Horror"
+      },
+      {
+        "GreekTitle": "Ρομαντική",
+        "Title": "Romance"
+      },
+      {
+        "GreekTitle": "Πολεμική",
+        "Title": "War"
+      },
+      {
+        "GreekTitle": "Ιστορική",
+        "Title": "History"
+      },
+      {
+        "GreekTitle": "Επιστημονική Φαντασία",
+        "Title": "Science Fiction"
+      },
+      {
+        "GreekTitle": "Γουέστερν",
+        "Title": "Western"
+      },
+      {
+        "GreekTitle": "Ντοκιμαντέρ",
+        "Title": "Documentary"
+      },
+      {
+        "GreekTitle": "Δράμα",
+        "Title": "Drama"
+      },
+      {
+        "GreekTitle": "Θρίλερ",
+        "Title": "Thriller"
+      },
+      {
+        "GreekTitle": "Τηλεταινία",
+        "Title": "TV Movie"
+      },
+      {
+        "GreekTitle": "Μουσική",
+        "Title": "Music"
+      },
+      {
+        "GreekTitle": "Εγκλήματος",
+        "Title": "Crime"
+      },
+      {
+        "GreekTitle": "Φαντασίας",
+        "Title": "Fantasy"
+      },
+      {
+        "GreekTitle": "Οικογενειακή",
+        "Title": "Family"
+      },
+      {
+        "GreekTitle": "Κινουμένων Σχεδίων",
+        "Title": "Animation"
+      },
+      {
+        "GreekTitle": "Μυστηρίου",
+        "Title": "Mystery"
+      },
+      {
+        "GreekTitle": "Κωμωδία",
+        "Title": "Comedy"
+      }
+    ]
+  },
+  "SortOptions": [
+    {
+      "GreekTitle": "Α -> Ω: Αύξουσα αλφαβητική ταξινόμηση",
+      "Title": "A -> Z: Ascending alphabetical order",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Ω -> Α: Φθίνουσα αλφαβητική ταξινόμηση",
+      "Title": "Z -> A: Descending alphabetical order",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Διάρκεια: Μικρότερη -> Μεγαλύτερη",
+      "Title": "Duration: Shortest -> Longest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Διάρκεια: Μεγαλύτερη -> Μικρότερη",
+      "Title": "Duration: Longest -> Shortest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Κυκλοφορίες: Νεότερες -> Παλαιότερες",
+      "Title": "Releases: Newest -> Oldest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Κυκλοφορίες: Παλαιότερες -> Νεότερες",
+      "Title": "Releases: Oldest -> Newest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Προστέθηκαν: Πρόσφατα -> Παλαιότερα",
+      "Title": "Added: Recently -> Earlier",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
+      "Title": "Added: Earlier -> Recently",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
+      "Title": "Added: Earlier -> Recently",
+      "enabled": false
+    },
+    {
+      "GreekTitle": "Τυχαία σειρά",
+      "Title": "Random order",
+      "enabled": true
+    }
+  ],
+  "OrganicUsers": [
+    {
+      "checkOrganicUsersList": true,
+      "organicUsersListUrl": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/organic_users.txt",
+      "pseudoUserIdKey": "p",
+      "pseudoUserIdCheck": true,
+      "advertisingIdKey": "a",
+      "advertisingIdCheck": true,
+      "eventKey": "organicUserInList3",
+      "eventTrigger": true
+    }
+  ],
+  "OrganicUsersForAds": [
+    {
+      "checkOrganicUsersList": false,
+      "organicUsersListUrl": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/organic_users.txt",
+      "pseudoUserIdKey": "p",
+      "pseudoUserIdCheck": true,
+      "advertisingIdKey": "a",
+      "advertisingIdCheck": true,
+      "checkAudience": false
+    }
+  ],
+  "PageManagement": [
+    {
+      "minVisibleRowsForLandscape": 3,
+      "rowsOfItemsPerPage": [
+        {
+          "columns": 2,
+          "rows": 25
+        },
+        {
+          "columns": 3,
+          "rows": 25
+        },
+        {
+          "columns": 4,
+          "rows": 25
+        }
+      ]
+    }
+  ],
+  "Streamtape": [
+    {
+      "Login": "34d01aa8df55c068228d",
+      "Key": "92wz2W8wZLCaqe8"
+    }
+  ],
+  "Headers": [
+    {
+      "GamatoTV": [
+        {
+          "name": "Referer",
+          "value": "https://movieflix.upns.pro/"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    }
+  ],
+  "MovieDB": [
+    {
+      "TrailerButtonVisible": true,
+      "FavoriteFilterEnabled": true,
+      
+      "S4FMultipleListHelperAutoRemoveFiles": true,
+
+      "CaptchaPostHelperEnabled": true,
+      "S4FPostHelperEnabled": true,
+      "S4FMultipleListHelperEnabled": true,
+      "SSHelperEnabled": true,
+      "WebViewHelperEnabled": true,
+
+      "extraSafetyFiltersForAllMovies": "  AND title IS NOT NULL AND title != '' AND imageMain IS NOT NULL AND imageMain != '' AND runtime IS NOT NULL AND runtime > 0 AND genres IS NOT NULL AND genres != '' AND day BETWEEN 1 AND 31 AND month BETWEEN 1 AND 12 AND year >= 0  ",
+      
+      "SSAPIKeys": "{\"sk_28e18614a05275070009862d8bc0641ad1949dca686c0d3fd3d1353f9584190c\", \"sk_c102db8da76a6668fd632bb942ff5a1ce28f2b4a5e3d07287688526cbcfc2c7a\", \"sk_e19e41ce9781f1ca6efa8affb7ab74874d95cb1967cc606b017d0c42d322b6cb\", \"sk_b0af9825afbfb894e5af4df9e606464a5ad99d8c0c4187d1f06d147451908e64\", \"sk_f7b23980b36ecb6b7ca1855968cd219f74aae74a86c3cf7bf2b8fda71ff15996\", \"sk_16e14f2161ba9c5b659ac1bcd4a9d455ba78d9abd48fe178e8fdc8e703f63a16\"}",
+      
+      "CaptchaPostHelperTimeout": 15000,
+      "S4FPostHelperTimeout": 15000,
+      "S4FMultipleListHelperTimeout": 15000,
+      "WebViewHelperTimeout": 15000,
+      "CaptchaPostHelperTimeout": 15000,
+
+      "SSSelectedFromListHelperEnabled": true,
+      "SDLMultipleListHelperEnabled": true,
+      "SDLSelectedFromListHelperEnabled": true,
+      "GOSubsHelperEnabled": true,
+      "GOSubsSelectedHelperEnabled": true,
+      "SSListHelperAutoRemoveFiles": true,
+      "SDLMultipleListHelperAutoRemoveFiles": true,
+      "GOSubsHelperAutoRemoveFiles": true,
+      "SSListHelperTimeout": 15000,
+      "SSSelectedFromListHelperTimeout": 15000,
+      "SDLMultipleListHelperTimeout": 15000,
+      "SDLSelectedFromListHelperTimeout": 15000,
+      "GOSubsHelperTimeout": 15000,
+      "GOSubsSelectedHelperTimeout": 15000,
+      "S4FMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "SSListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "SDLMultipleListHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "GOSubsHelperAutoRemoveFilesMinRequiredFolderSize": 0,
+      "SSHelperTimeout": 15000,
+
+      "GOBaseUrl": "https://greekofficialsubs.top/",
+      "GODetailsUrl": "movie_details.php?id=",
+      "GOSourceName": "GO",
+      "GOSourceFolder": "go",
+
+      "SDLBaseUrl": "https://subdl.com",
+      "SDLDownloadBaseUrl": "https://dl.subdl.com/",
+      "SDLApiSearch": "https://api3.subdl.com/auto?query=",
+      "SDLLang": "greek",      
+      "SDLSourceName": "SDL",
+      "SDLSourceFolder": "sdl",
+      
+      "S4FBaseUrl": "https://www.subs4free.club",
+      "S4FIncludeDomain": "subs4free.club",
+      "S4FSourceName": "S4F",
+      "S4FSourceFolder": "s4f",
+      
+      "SSBaseUrl": "https://api.subsource.net/api/v1",
+      "SSSourceName": "SS",
+      "SSSourceFolder": "ss"
+      
+    }
+  ],
+  "Player": [
+    {
+      "CustomizeSubtitlesEnabled": true,
+      "CustomizeSubtitlesMinSize": 0.05,
+      "CustomizeSubtitlesMaxSize": 0.10,
+      "CustomizeSubtitlesMinPadding": 0.00,
+      "CustomizeSubtitlesMaxPadding": 0.25,
+      "CustomizeSubtitlesDelayEnabled": true,
+      "CustomizeSubtitlesMinDelay": -5.0,
+      "CustomizeSubtitlesMaxDelay": 5.0,
+      "CustomizeSubtitlesStep": 0.2,
+      "CustomizeSubtitlesDelayTimeout": 10000
+    }
+  ],
+  "SocialMedia": [
+    {
+      "SocialMediaVisible": true,
+      "SocialMediaImage": "https://i.ibb.co/2Hzt1Tj/ezgif-50251b4f4f1d0fb4.gif",
+      "SocialMediaTitle": "Stay Connected",
+      "SocialMediaTitleGreek": "Μείνε Συνδεδεμένος",
+      "SocialMediaDescription": "Follow us on social media, join our community, and stay up to date with our latest news and updates.",
+      "SocialMediaDescriptionGreek": "Ακολούθησέ μας στα social media, γίνε μέλος της κοινότητάς μας και μείνε ενημερωμένος με όλα τα νέα και τις ανακοινώσεις μας.",
+      
+      "SocialMediaIcon": "https://i.ibb.co/d47KL0N9/152552125521.png",
+
+      "SocialMediaOptionListJSON": [
+        {
+          "name": "Instagram",
+          "nameGreek": "Instagram",
+          "description": "Follow us",
+          "descriptionGreek": "Ακολουθήστε μας",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png",
+          "url": "https://instagram.com/@movieflixgr"
+        },
+        {
+          "name": "YouTube",
+          "nameGreek": "YouTube",
+          "description": "Subscribe to our channel",
+          "descriptionGreek": "Εγγραφείτε στο κανάλι μας",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png",
+          "url": "https://www.youtube.com/@MovieFlixEurope"
+        },
+        {
+          "name": "Facebook",
+          "nameGreek": "Facebook",
+          "description": "Like our page",
+          "descriptionGreek": "Κάντε like στη σελίδα μας",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1200px-2021_Facebook_icon.svg.png",
+          "url": "https://www.facebook.com/profile.php?id=61584994453114"
+        },
+        {
+          "name": "Discord",
+          "nameGreek": "Discord",
+          "description": "Join our community",
+          "descriptionGreek": "Μπείτε στην κοινότητα",
+          "image": "https://cdn-icons-png.flaticon.com/512/3670/3670157.png",
+          "url": "https://discord.gg/hsqyykuE"
+        },
+        {
+          "name": "Website",
+          "nameGreek": "Ιστοσελίδα",
+          "description": "Visit our website",
+          "descriptionGreek": "Επισκεφθείτε την ιστοσελίδα μας",
+          "image": "https://play-lh.googleusercontent.com/nXS7i9PsgpwtiFTGrpMWPGAErI0BCqy3zeUHwmnrgju8OnlA7Mzh-msbK-H9i8j2_g=w240-h480-rw",
+          "url": "https://movieflixgr.vercel.app/"
+        },
+        {
+          "name": "Email",
+          "nameGreek": "Email",
+          "description": "Contact us",
+          "descriptionGreek": "Επικοινωνήστε μαζί μας",
+          "image": "https://i.ibb.co/ZRYsV2TX/15212525112.png",
+          "url": "mailto:movieflix@europe.com"
+        }
+      ]
+    }
+  ],
+  "Streaming": [
+    {
+      "FetchersJSON": [
+        {
+          "VidSrc": [
+            {
+              "startUrl": "https://vidsrc-embed.ru/embed/movie?tmdb={TMDB_ID}&ds_lang=el",
+              "allowedHost": "vidsrc-embed.ru",
+              "timeoutMs": 10000,
+              "mediaRegex": ".*(\\.mp4|\\.m3u8|\\.webm|\\.mpd).*",
+              "simulateClick": true
+            }
+          ],
+          "VidFast": [
+            {
+              "startUrl": "https://vidfast.pro/movie/{TMDB_ID}",
+              "allowedHost": "vidfast.pro",
+              "timeoutMs": 10000,
+              "mediaRegex": ".*\\.(mp4|m3u8|webm|mpd)(\\?.*)?$",
+              "simulateClick": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "QRCode": [
+    {
+      "QRCodeTutorialEnabled": true,
+      "QRCodeTutorialYouTubeVideo": "QtBAWGdWtlI"
+    }
+  ],
+  "TVSender": [
+    {
+      "TVSenderFirebaseProjectID": "movieflix-tv-player",
+      "TVSenderFirebaseApplicationID": "1:391056330176:android:77eb71b2aa5f073eff0c25",
+      "TVSenderFirebaseAPIKey": "AIzaSyBO3HS2hqQjhTEv2PYR9FzSzgKi8B-5Jh4",
+      "TVSenderFirebaseDatabaseUrl": "https://movieflix-tv-player-default-rtdb.europe-west1.firebasedatabase.app",
+      "SubtitlesUploadingWorkerUrl": "https://subtitles.movieflixgr.workers.dev"
+    }
+  ]
+}
