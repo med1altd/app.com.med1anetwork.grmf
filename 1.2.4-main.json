@@ -893,13 +893,22 @@
     {
       "FetchersJSON": [
         {
-          "VidSrc": [
+          "VidSrcOld": [
             {
               "startUrl": "https://vidsrc-embed.ru/embed/movie?tmdb={TMDB_ID}&ds_lang=el",
               "allowedHost": "vidsrc-embed.ru",
               "timeoutMs": 10000,
               "mediaRegex": ".*(\\.mp4|\\.m3u8|\\.webm|\\.mpd).*",
               "simulateClick": true
+            }
+          ],
+          "VidSrc": [
+            {
+              "startUrl": "https://www.vidking.net/embed/movie/{TMDB_ID}",
+              "allowedHost": "vidking.net",
+              "timeoutMs": 10000,
+              "mediaRegex": "https?://[a-zA-Z0-9.-]+/[a-zA-Z0-9_\\-]{20,}/index\\.m3u8.*",
+              "simulateClick": false
             }
           ],
           "VidFast": [
