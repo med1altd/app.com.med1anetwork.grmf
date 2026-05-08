@@ -18,7 +18,7 @@
       "enabledServerAdRequestsCheck": false,
       "EPGIntervalTimeInMs": 900000,
       "RequestNewExpiredAdTime": 18000000000,
-      "bypassLockedContent": false,
+      "bypassLockedContent": true,
       "unlockOption": true,
       "TVDelay": 240000,
       "VideoDelay": 240000,
@@ -440,7 +440,7 @@
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionETS.json",
       "Type": "Series",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Kids": [
