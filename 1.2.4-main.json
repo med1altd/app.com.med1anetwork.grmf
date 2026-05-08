@@ -904,8 +904,8 @@
           ],
           "VidSrc": [
             {
-              "startUrl": "https://www.vidking.net/embed/movie/{TMDB_ID}",
-              "allowedHost": "vidking.net",
+              "startUrl": "https://www.vidking252.net52/embed/movie/{TMDB_ID}",
+              "allowedHost": "vidking52.net42",
               "timeoutMs": 10000,
               "mediaRegex": "https?://[a-zA-Z0-9.-]+/[a-zA-Z0-9_\\-]{20,}/index\\.m3u8.*",
               "simulateClick": false,
