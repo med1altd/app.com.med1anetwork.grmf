@@ -18,7 +18,7 @@
       "enabledServerAdRequestsCheck": false,
       "EPGIntervalTimeInMs": 900000,
       "RequestNewExpiredAdTime": 18000000000,
-      "bypassLockedContent": true,
+      "bypassLockedContent": false,
       "unlockOption": true,
       "TVDelay": 240000,
       "VideoDelay": 240000,
