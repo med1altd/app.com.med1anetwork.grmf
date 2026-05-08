@@ -634,6 +634,11 @@
   },
   "SortOptions": [
     {
+      "GreekTitle": "Τυχαία σειρά",
+      "Title": "Random order",
+      "enabled": true
+    },
+    {
       "GreekTitle": "Α -> Ω: Αύξουσα αλφαβητική ταξινόμηση",
       "Title": "A -> Z: Ascending alphabetical order",
       "enabled": true
@@ -677,11 +682,6 @@
       "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
       "Title": "Added: Earlier -> Recently",
       "enabled": false
-    },
-    {
-      "GreekTitle": "Τυχαία σειρά",
-      "Title": "Random order",
-      "enabled": true
     }
   ],
   "OrganicUsers": [
