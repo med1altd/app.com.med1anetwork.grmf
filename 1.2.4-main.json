@@ -893,7 +893,7 @@
     {
       "FetchersJSON": [
         {
-          "VidSrcOld": [
+          "VidSrc": [
             {
               "startUrl": "https://vidsrc-embed.ru/embed/movie?tmdb={TMDB_ID}&ds_lang=el",
               "allowedHost": "vidsrc-embed.ru",
@@ -902,7 +902,7 @@
               "simulateClick": true
             }
           ],
-          "VidSrc": [
+          "VidKing": [
             {
               "startUrl": "https://www.vidking.net/embed/movie/{TMDB_ID}",
               "allowedHost": "vidking.net",
