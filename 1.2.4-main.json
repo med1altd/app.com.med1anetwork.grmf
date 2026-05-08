@@ -911,11 +911,11 @@
               "simulateClick": false,
               "headers": [
                 {
-                  "name": "Referer",
+                  "key": "Referer",
                   "value": "https://www.vidking.net/"
                 },
                 {
-                  "name": "Origin",
+                  "key": "Origin",
                   "value": "https://www.vidking.net"
                 }
               ],
@@ -931,11 +931,11 @@
               "simulateClick": false,
               "headers": [
                 {
-                  "name": "Referer",
+                  "key": "Referer",
                   "value": "https://www.vidking.net/"
                 },
                 {
-                  "name": "Origin",
+                  "key": "Origin",
                   "value": "https://www.vidking.net"
                 }
               ],
