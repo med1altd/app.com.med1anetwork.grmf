@@ -415,7 +415,7 @@
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
-      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/MPT_v2.7z",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/ΕΤ_v1.7z",
       "Type": "MoviesDB",
       "isUnlocked": true
     }
