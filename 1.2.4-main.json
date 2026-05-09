@@ -254,7 +254,7 @@
       ],
       "Movies": [
         {
-          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v4.7z",
+          "Url": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v5.7z",
           "Category": 0
         },
         {
@@ -401,7 +401,7 @@
       "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
       "Image": "https://i.ibb.co/rd5kj7d/image.png",
       "ImageOld": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
-      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v4.7z",
+      "JSON": "https://raw.githubusercontent.com/med1altd/app.com.med1anetwork.grmf/main/database/movies/KTMY_v5.7z",
       "Type": "MoviesDB",
       "isUnlocked": true
     },
