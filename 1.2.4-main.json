@@ -932,11 +932,11 @@
               "headers": [
                 {
                   "key": "Referer",
-                  "value": "https://www.vidking.net/"
+                  "value": "https://vidfast.pro/"
                 },
                 {
                   "key": "Origin",
-                  "value": "https://www.vidking.net"
+                  "value": "https://vidfast.pro"
                 }
               ],
               "headersRequired": false
