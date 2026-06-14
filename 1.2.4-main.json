@@ -897,7 +897,7 @@
             {
               "startUrl": "https://vidsrc-embed.ru/embed/movie?tmdb={TMDB_ID}&ds_lang=el",
               "allowedHost": "vidsrc-embed.ru",
-              "timeoutMs": 10000,
+              "timeoutMs": 100,
               "mediaRegex": ".*(\\.mp4|\\.m3u8|\\.webm|\\.mpd).*",
               "simulateClick": true
             }
@@ -906,7 +906,7 @@
             {
               "startUrl": "https://www.vidking252.net52/embed/movie/{TMDB_ID}",
               "allowedHost": "vidking52.net42",
-              "timeoutMs": 10000,
+              "timeoutMs": 100,
               "mediaRegex": "https?://[a-zA-Z0-9.-]+/[a-zA-Z0-9_\\-]{20,}/index\\.m3u8.*",
               "simulateClick": false,
               "headers": [
