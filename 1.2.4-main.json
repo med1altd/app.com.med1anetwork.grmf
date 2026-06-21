@@ -156,7 +156,17 @@
       "Rewarded_Id_AdMob": "ca-app-pub-3940256099942544/5224354917",
       "Rewarded_Id_AdMobReal": "",
       "AppOpen_Id_AdMob": "ca-app-pub-3940256099942544/9257395921",
+      "Native_Id_AdMob": "ca-app-pub-3940256099942544/2247696110",
       "RewardedInterstitial_Id_AdMob": "",
+
+      "Interstitial_Cooldown_Ms": 30000, 
+      "Interstitial_Action_Threshold": 2,
+      "AppOpen_Cooldown_Ms": 60000,
+      "AppOpen_Action_Threshold": 1,
+      "Rewarded_Cooldown_Ms": 0,
+      "Rewarded_Action_Threshold": 0,
+      "Native_Ad_Interval": 6,
+      
       "APP_ID_Unity": "5598984",
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
