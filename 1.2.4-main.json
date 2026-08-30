@@ -818,7 +818,7 @@
       
       "SSBaseUrl": "https://api.subsource.net/api/v1",
       "SSSourceName": "SS",
-      "SSSourceFolder": "ss"
+      "SSSourceFolder": "ss",
 
       "GSListHelperEnabled": true,
       "GSSelectedFromListHelperEnabled": true,
