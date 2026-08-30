@@ -928,7 +928,7 @@
               "startUrl": "https://www.vidking.net/embed/movie/{TMDB_ID}",
               "allowedHost": "vidking.net",
               "timeoutMs": 30000,
-              "mediaRegex": "https?://[a-zA-Z0-9.-]+/(?:[^/\s"']+/)+(?:index[a-zA-Z0-9_\-]*|playlist)\.m3u8",
+              "mediaRegex": "https?://[a-zA-Z0-9.-]+/(?:[^/]+/)+(?:index[a-zA-Z0-9_\\-]*|playlist)\\.m3u8",
               "simulateClick": false,
               "headers": [
                 {
