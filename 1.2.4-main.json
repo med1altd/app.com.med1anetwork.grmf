@@ -782,8 +782,8 @@
       "SSSelectedFromListHelperEnabled": true,
       "SDLMultipleListHelperEnabled": true,
       "SDLSelectedFromListHelperEnabled": true,
-      "GOSubsHelperEnabled": true,
-      "GOSubsSelectedHelperEnabled": true,
+      "GOSubsHelperEnabled": false,
+      "GOSubsSelectedHelperEnabled": false,
       "SSListHelperAutoRemoveFiles": true,
       "SDLMultipleListHelperAutoRemoveFiles": true,
       "GOSubsHelperAutoRemoveFiles": true,
@@ -819,6 +819,17 @@
       "SSBaseUrl": "https://api.subsource.net/api/v1",
       "SSSourceName": "SS",
       "SSSourceFolder": "ss"
+
+      "GSListHelperEnabled": true,
+      "GSSelectedFromListHelperEnabled": true,
+      "GSBaseUrl": "https://greeksubs.net/",
+      "GSDetailsUrlPath": "",
+      "GSSourceName": "GS",
+      "GSSourceFolder": "gs",
+      "GSListHelperTimeout": 15000,
+      "GSSelectedFromListHelperTimeout": 15000,
+      "GSListHelperAutoRemoveFiles": true,
+      "GSListHelperAutoRemoveFilesMinRequiredFolderSize": 0
       
     }
   ],
