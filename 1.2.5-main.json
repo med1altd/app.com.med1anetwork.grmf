@@ -906,7 +906,7 @@
               "simulateClick": true
             }
           ],
-          "VidSrc": [
+          "VidFast": [
             {
               "startUrl": "https://vidsrc.sh/embed/movie/{TMDB_ID}",
               "allowedHost": "vidsrc.sh",
@@ -926,7 +926,7 @@
               "headersRequired": true
             }
           ],
-          "VidFast": [
+          "VidSrc": [
             {
               "startUrl": "https://vidfast.pro/movie/{TMDB_ID}",
               "allowedHost": "vidfast.pro",
