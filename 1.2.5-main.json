@@ -912,7 +912,7 @@
               "allowedHost": "vidsrc.sh",
               "timeoutMs": 30000,
               "mediaRegex": "https?://.+?\\.m3u8",
-              "simulateClick": false,
+              "simulateClick": true,
               "headers": [
                 {
                   "key": "Referer",
