@@ -916,11 +916,11 @@
               "headers": [
                 {
                   "key": "Referer",
-                  "value": "https://www.vidsrc.sh/"
+                  "value": "https://vidsrc.sh/"
                 },
                 {
                   "key": "Origin",
-                  "value": "https://www.vidsrc.sh"
+                  "value": "https://vidsrc.sh"
                 }
               ],
               "headersRequired": true
