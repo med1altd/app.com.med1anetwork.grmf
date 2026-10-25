@@ -908,19 +908,19 @@
           ],
           "VidSrc": [
             {
-              "startUrl": "https://www.vidking.net/embed/movie/{TMDB_ID}",
-              "allowedHost": "vidking.net",
+              "startUrl": "https://vidsrc.sh/embed/movie/{TMDB_ID}",
+              "allowedHost": "vidsrc.sh",
               "timeoutMs": 30000,
-              "mediaRegex": "https?://[a-zA-Z0-9.-]+/(?:[^/]+/)+(?:index[a-zA-Z0-9_\\-]*|playlist)\\.m3u8",
+              "mediaRegex": "https?://.+?\\.m3u8",
               "simulateClick": false,
               "headers": [
                 {
                   "key": "Referer",
-                  "value": "https://www.vidking.net/"
+                  "value": "https://www.vidsrc.sh/"
                 },
                 {
                   "key": "Origin",
-                  "value": "https://www.vidking.net"
+                  "value": "https://www.vidsrc.sh"
                 }
               ],
               "headersRequired": true
