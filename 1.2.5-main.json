@@ -12,6 +12,8 @@
       "showInterstitialAdsLive": true,
       "showInterstitialAdsVideo": true,
       "showRewardedInterstitialAds": false,
+      "showRewardedAds": true,
+      "Show_Interstitial_On_Unlocked_Play": true,
       "showAppOpenAds": true,
       "Casting_App_Id": "283C71D7",
       "enabledCastOption": true,
@@ -153,9 +155,9 @@
       "Banner_Id_AdMobReal": "",
       "Interstitial_Id_AdMob": "ca-app-pub-1981269273781608/6374346430",
       "Interstitial_Id_AdMobReal": "ca-app-pub-1981269273781608/6374346430",
-      "Rewarded_Id_AdMob": "ca-app-pub-3940256099942544/5224354917",
+      "Rewarded_Id_AdMob": "ca-app-pub-1981269273781608/6230930997",
       "Rewarded_Id_AdMobReal": "",
-      "AppOpen_Id_AdMob": "ca-app-pub-3940256099942544/9257395921",
+      "AppOpen_Id_AdMob": "ca-app-pub-1981269273781608/8927615900",
       "Native_Id_AdMob": "ca-app-pub-3940256099942544/2247696110",
       "RewardedInterstitial_Id_AdMob": "",
       "Interstitial_Cooldown_Ms": 30000,
@@ -228,7 +230,14 @@
             }
           ]
         }
-      ]
+      ],
+      "Global_Interstitial_Cooldown_Ms": 120000,
+      "Video_Min_Watch_Time_Ms": 60000,
+      "Trailer_Min_Watch_Time_Ms": 15000,
+      "Interstitial_Cooldown_Ms": 30000,
+      "Interstitial_Action_Threshold": 2,
+      "AppOpen_Cooldown_Ms": 60000,
+      "AppOpen_Action_Threshold": 1
     }
   ],
   "Rating": [
@@ -905,7 +914,7 @@
               "mediaRegex": ".*(\\.mp4|\\.m3u8|\\.webm|\\.mpd).*",
               "simulateClick": true
             }
-          ],
+          ],          
           "VidSrc": [
             {
               "startUrl": "https://vidsrc.sh/embed/movie/{TMDB_ID}",
@@ -913,15 +922,13 @@
               "timeoutMs": 30000,
               "mediaRegex": "https?://.+?\\.m3u8",
               "simulateClick": true,
+              "clickSelector": "#play, .jw-bigplay, .vjs-big-play-button, button",
+              "clickDelayMs": 2000,
+              "blockPopups": true,
+              "allowIframe": true,
               "headers": [
-                {
-                  "key": "Referer",
-                  "value": "https://vidsrc.sh/"
-                },
-                {
-                  "key": "Origin",
-                  "value": "https://vidsrc.sh"
-                }
+                { "key": "Referer", "value": "https://vidsrc.sh/" },
+                { "key": "Origin", "value": "https://vidsrc.sh" }
               ],
               "headersRequired": true
             }
